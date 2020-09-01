@@ -1,0 +1,1455 @@
+uid,GeneRawName,SuperClass,Class,Family,SubFamily,EnsemblID
+1.1.1.1.1,c-Jun,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,Jun,ENSMUSG00000052684
+1.1.1.1.2,JunB,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,Jun,"ENSMUSG00000052837,ENSMUSG00000052926"
+1.1.1.1.3,JunD,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,Jun,ENSMUSG00000071076
+1.1.1.2.1,NFE2,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,ENSMUSG00000058794
+1.1.1.2.2,NFE2L1,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,ENSMUSG00000038615
+1.1.1.2.3,NFE2L2,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,ENSMUSG00000015839
+1.1.1.2.4,NFE2L3,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,ENSMUSG00000029832
+1.1.1.2.5,BACH1,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,"ENSMUSG00000025612,ENSMUSG00000034329"
+1.1.1.2.6,BACH2,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,NFE2,ENSMUSG00000040270
+1.1.1.3.1,ATF-2,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,ATF2,"ENSMUSG00000027104,ENSMUSG00000022144"
+1.1.1.3.2,ATF-7,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,ATF2,"ENSMUSG00000038539,ENSMUSG00000099083"
+1.1.1.3.3,CREB-5,Basic domains,Basic leucine zipper factors (bZIP),Jun-related,ATF2,ENSMUSG00000053007
+1.1.2.1.1,c-Fos,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,Fos,ENSMUSG00000021250
+1.1.2.1.2,FosB,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,Fos,ENSMUSG00000003545
+1.1.2.1.3,Fra-1,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,Fos,ENSMUSG00000024912
+1.1.2.1.4,Fra-2,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,Fos,ENSMUSG00000029135
+1.1.2.2.1,ATF-3,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,ATF3-like,ENSMUSG00000026628
+1.1.2.2.2,JDP-2,Basic domains,Basic leucine zipper factors (bZIP),Fos-related,ATF3-like,ENSMUSG00000034271
+1.1.3.1.1,MAF (c-MAF),Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Large MAF,"ENSMUSG00000055435,ENSMUSG00000003948"
+1.1.3.1.2,MAFA,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Large MAF,"ENSMUSG00000030114,ENSMUSG00000047591"
+1.1.3.1.3,MAFB,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Large MAF,ENSMUSG00000074622
+1.1.3.1.4,NRL,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Large MAF,"ENSMUSG00000026822,ENSMUSG00000040632"
+1.1.3.2.1,MAFF,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Small MAF,ENSMUSG00000042622
+1.1.3.2.2,MAFG,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Small MAF,ENSMUSG00000051510
+1.1.3.2.3,MAFK,Basic domains,Basic leucine zipper factors (bZIP),Maf-related,Small MAF,ENSMUSG00000018143
+1.1.4.0.1,BATF,Basic domains,Basic leucine zipper factors (bZIP),B-ATF-related,,ENSMUSG00000034266
+1.1.4.0.2,BATF2,Basic domains,Basic leucine zipper factors (bZIP),B-ATF-related,,ENSMUSG00000039699
+1.1.4.0.3,BATF3,Basic domains,Basic leucine zipper factors (bZIP),B-ATF-related,,ENSMUSG00000026630
+1.1.5.0.1,XBP-1,Basic domains,Basic leucine zipper factors (bZIP),XBP1-related,,ENSMUSG00000020484
+1.1.6.0.1,ATF-4,Basic domains,Basic leucine zipper factors (bZIP),ATF4-related,,ENSMUSG00000042406
+1.1.6.0.2,ATF-5,Basic domains,Basic leucine zipper factors (bZIP),ATF4-related,,ENSMUSG00000038539
+1.1.7.1.1,CREB1,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB-like,ENSMUSG00000025958
+1.1.7.1.2,ATF1,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB-like,"ENSMUSG00000023027,ENSMUSG00000080968,ENSMUSG00000022144"
+1.1.7.1.3,CREM,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB-like,ENSMUSG00000063889
+1.1.7.2.1,CREB3,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB3-like,"ENSMUSG00000028466,ENSMUSG00000027938"
+1.1.7.2.2,CREB3L1,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB3-like,ENSMUSG00000027230
+1.1.7.2.3,CREB3L2,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB3-like,ENSMUSG00000038648
+1.1.7.2.4,CREB3L3,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB3-like,ENSMUSG00000035041
+1.1.7.2.5,CREB3L4,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREB3-like,"ENSMUSG00000028466,ENSMUSG00000027938"
+1.1.7.3.1,ATF6,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,ATF6,ENSMUSG00000026663
+1.1.7.3.2,ATF6B,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,ATF6,"ENSMUSG00000026663,ENSMUSG00000015461"
+1.1.7.4.1,CREBZF,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREBZF-like,ENSMUSG00000051451
+1.1.7.5.1,CREBL2,Basic domains,Basic leucine zipper factors (bZIP),CREB-related,CREBL2-like,ENSMUSG00000032652
+1.1.8.1.1,CEBPA,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,ENSMUSG00000034957
+1.1.8.1.2,CEBPB,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,ENSMUSG00000056501
+1.1.8.1.3,CEBPG,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,ENSMUSG00000056216
+1.1.8.1.4,CEBPD,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,ENSMUSG00000071637
+1.1.8.1.5,CEBPE,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,ENSMUSG00000052435
+1.1.8.1.6,DDIT3,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,CEBP,"ENSMUSG00000116429,ENSMUSG00000025408"
+1.1.8.2.1,DBP,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,PAR,"ENSMUSG00000059824,ENSMUSG00000035540,ENSMUSG00000024507,ENSMUSG00000040463"
+1.1.8.2.2,HLF,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,PAR,"ENSMUSG00000024140,ENSMUSG00000003949"
+1.1.8.2.3,NFIL3,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,PAR,ENSMUSG00000056749
+1.1.8.2.4,TEF,Basic domains,Basic leucine zipper factors (bZIP),CEBP-related,PAR,ENSMUSG00000022389
+1.2.1.0.1,TCF3 (E2A),Basic domains,Basic helix-loop-helix factors (bHLH),E2A,E2A-like,"ENSMUSG00000020167,ENSMUSG00000055799"
+1.2.1.0.2,TCF4 / SEF2,Basic domains,Basic helix-loop-helix factors (bHLH),E2A,E2A-like,"ENSMUSG00000017950,ENSMUSG00000053477,ENSMUSG00000024985"
+1.2.1.0.3,TCF12/HTF4,Basic domains,Basic helix-loop-helix factors (bHLH),E2A,E2A-like,ENSMUSG00000032228
+1.2.2.1.1,MyoD,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,Myogenic TFs,ENSMUSG00000009471
+1.2.2.1.2,MYOG,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,Myogenic TFs,ENSMUSG00000026459
+1.2.2.1.3,MYF5,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,Myogenic TFs,ENSMUSG00000000435
+1.2.2.1.4,MYF6,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,Myogenic TFs,ENSMUSG00000035923
+1.2.2.2.1,ASCL1,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,ASC,ENSMUSG00000020052
+1.2.2.2.2,ASCL2,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,ASC,ENSMUSG00000009248
+1.2.2.2.3,ASCL3,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,ASC,ENSMUSG00000035951
+1.2.2.2.4,ASCL4,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,ASC,ENSMUSG00000085111
+1.2.2.2.5,ASCL5,Basic domains,Basic helix-loop-helix factors (bHLH),MyoD-ASC-related,ASC,ENSMUSG00000097918
+1.2.3.1.1,TAL1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TAL-HEN,ENSMUSG00000028717
+1.2.3.1.2,TAL2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TAL-HEN,"ENSMUSG00000051251,ENSMUSG00000028417"
+1.2.3.1.3,LYL1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TAL-HEN,ENSMUSG00000034041
+1.2.3.1.4,HEN1 (NHLH1),Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TAL-HEN,ENSMUSG00000045662
+1.2.3.1.5,HEN2 (NHLH2),Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TAL-HEN,ENSMUSG00000048540
+1.2.3.2.1,TWIST1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000035799
+1.2.3.2.2,TWIST2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000007805
+1.2.3.2.3,HAND1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000037335
+1.2.3.2.4,HAND2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000038193
+1.2.3.2.5,TCF15 (bHLH-EC2),Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000068079
+1.2.3.2.6,SCX,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000034161
+1.2.3.2.7,PTF1A,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000026735
+1.2.3.2.8,"FIGLA (FIGalpha, FIGalpha1, FIGalpha2, FIGalpha3, FIGalpha4, FIGalpha5)",Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,TWIST,ENSMUSG00000030001
+1.2.3.3.1,"MESP1 (Mesp, Mespa, Mespb)",Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,ENSMUSG00000030544
+1.2.3.3.2,MESP2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,ENSMUSG00000030543
+1.2.3.3.3,"TCF23 (ABF-1, MyoR, Musculin, msctcf2123)",Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,ENSMUSG00000006642
+1.2.3.3.4,MSC,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,"ENSMUSG00000025930,ENSMUSG00000034248"
+1.2.3.3.5,TCF21,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,ENSMUSG00000045680
+1.2.3.3.6,MSGN1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,MESP,ENSMUSG00000047002
+1.2.3.4.1,NEUROD1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000034701
+1.2.3.4.2,NEUROD2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000038255
+1.2.3.4.3,NEUROD4,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000048015
+1.2.3.4.4,NEUROD6,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000037984
+1.2.3.4.5,NGN1/NEUROG1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000048904
+1.2.3.4.6,NGN2/NEUROG2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000027967
+1.2.3.4.7,NGN3/NEUROG3,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000044312
+1.2.3.4.8,ATOH1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000073043
+1.2.3.4.9,ATOH7,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000036816
+1.2.3.4.10,ATOH8,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000037621
+1.2.3.4.11,BHLHE22,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000025128
+1.2.3.4.12,BHLHE23,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000045493
+1.2.3.4.13,OLIG1,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000046160
+1.2.3.4.14,OLIG2,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000039830
+1.2.3.4.15,OLIG3,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000045591
+1.2.3.4.16,BHLHA15,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000052271
+1.2.3.4.17,FERD3L,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,Neurogenin-ATO,ENSMUSG00000046518
+1.2.3.5.1,BHLHA9,Basic domains,Basic helix-loop-helix factors (bHLH),Tal-related,BHLHA9,ENSMUSG00000044243
+1.2.4.1.1,HES1,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,"ENSMUSG00000053329,ENSMUSG00000022528"
+1.2.4.1.2,HES2,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000028940
+1.2.4.1.3,HES3,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000028946
+1.2.4.1.4,HES4,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,
+1.2.4.1.5,HES5,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000048001
+1.2.4.1.6,HES6,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000067071
+1.2.4.1.7,HES7,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000023781
+1.2.4.1.8,HEY1,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000040289
+1.2.4.1.9,HEY2,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000019789
+1.2.4.1.10,HEYL,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000032744
+1.2.4.1.11,HELT,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000047171
+1.2.4.1.12,DEC1/BHLHE40,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000030103
+1.2.4.1.13,DEC2/BHLHE41,Basic domains,Basic helix-loop-helix factors (bHLH),Hairy-related,HAIRY,ENSMUSG00000030256
+1.2.5.1.1,AhR,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000019256
+1.2.5.1.2,AhRR,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,"ENSMUSG00000021575,ENSMUSG00000032315,ENSMUSG00000034152"
+1.2.5.1.3,SIM1,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000019913
+1.2.5.1.4,SIM2,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000062713
+1.2.5.1.5,HIF1A (hif1alpha),Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000021109
+1.2.5.1.6,HIF3A (hif3alpha),Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000004328
+1.2.5.1.7,EPAS1,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000024140
+1.2.5.1.8,NPAS1,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000001988
+1.2.5.1.9,NPAS3,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-AHR,ENSMUSG00000021010
+1.2.5.2.1,ARNT,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,"ENSMUSG00000015522,ENSMUSG00000056050"
+1.2.5.2.2,ARNT2,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,ENSMUSG00000015709
+1.2.5.2.3,"ARNTL (arntla, arntlb)",Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,ENSMUSG00000055116
+1.2.5.2.4,"ARNTL2 (arntl2a, arntl2b)",Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,ENSMUSG00000040187
+1.2.5.2.5,CLOCK,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,ENSMUSG00000029238
+1.2.5.2.6,"NPAS2 (npas2a, npas2b)",Basic domains,Basic helix-loop-helix factors (bHLH),PAS,PAS-ARNT,ENSMUSG00000026077
+1.2.5.3.1,NCOA1,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,NCOA,ENSMUSG00000020647
+1.2.5.3.2,NCOA2,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,NCOA,ENSMUSG00000005886
+1.2.5.3.3,NCOA3,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,NCOA,ENSMUSG00000027678
+1.2.5.4.1,NPAS4,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,NPAS4,ENSMUSG00000045903
+1.2.5.5.1,SOHLH1,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,SOHLH,ENSMUSG00000059625
+1.2.5.5.2,SOHLH2,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,SOHLH,ENSMUSG00000027794
+1.2.5.5.3,TCFL5,Basic domains,Basic helix-loop-helix factors (bHLH),PAS,SOHLH,ENSMUSG00000038932
+1.2.6.1.1,TFE3,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,TFE3,ENSMUSG00000000134
+1.2.6.1.2,TFEB,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,TFE3,ENSMUSG00000023990
+1.2.6.1.3,TFEC,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,TFE3,ENSMUSG00000029553
+1.2.6.1.4,MiTF,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,TFE3,"ENSMUSG00000035158,ENSMUSG00000024029"
+1.2.6.2.1,USF1,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,USF,ENSMUSG00000026641
+1.2.6.2.2,USF2,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,USF,ENSMUSG00000058239
+1.2.6.3.1,SREBF1,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,SREBF,ENSMUSG00000020538
+1.2.6.3.2,SREBF2,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,SREBF,ENSMUSG00000022463
+1.2.6.4.1,AP-4,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,AP4,ENSMUSG00000005718
+1.2.6.5.1,c-MYC,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,ENSMUSG00000022346
+1.2.6.5.2,NMYC,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,ENSMUSG00000037169
+1.2.6.5.3,LMYC1 (lmyc),Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,ENSMUSG00000028654
+1.2.6.5.5,MAX,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,ENSMUSG00000059436
+1.2.6.5.6,SMYC,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,
+1.2.6.5.7,B-MYC,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MYC,
+1.2.6.6.1,MLX (BHLHD13),Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MONDOlike,"ENSMUSG00000017801,ENSMUSG00000005373"
+1.2.6.6.2,MONDOA,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MONDOlike,ENSMUSG00000038342
+1.2.6.6.3,MONDOB,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MONDOlike,ENSMUSG00000005373
+1.2.6.7.1,MXD1,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,ENSMUSG00000001156
+1.2.6.7.2,MXD3,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,ENSMUSG00000021485
+1.2.6.7.3,MXD4,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,ENSMUSG00000037235
+1.2.6.7.4,MAD5,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,"ENSMUSG00000033943,ENSMUSG00000068587"
+1.2.6.7.5,MXI1,Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,ENSMUSG00000025025
+1.2.6.7.6,MNT (BHLHD3),Basic domains,Basic helix-loop-helix factors (bHLH),bHLH-ZIP,MAD,ENSMUSG00000000282
+1.2.8.0.1,Id1,Basic domains,Basic helix-loop-helix factors (bHLH),HLH only,Id,ENSMUSG00000042745
+1.2.8.0.2,Id2,Basic domains,Basic helix-loop-helix factors (bHLH),HLH only,Id,ENSMUSG00000020644
+1.2.8.0.3,Id3,Basic domains,Basic helix-loop-helix factors (bHLH),HLH only,Id,"ENSMUSG00000007872,ENSMUSG00000111021"
+1.2.8.0.4,Id4,Basic domains,Basic helix-loop-helix factors (bHLH),HLH only,Id,ENSMUSG00000021379
+1.3.1.0.1,AP-2alpha,Basic domains,Basic helix-span-helix factors (bHSH),AP2,,ENSMUSG00000021359
+1.3.1.0.2,AP-2beta,Basic domains,Basic helix-span-helix factors (bHSH),AP2,,ENSMUSG00000025927
+1.3.1.0.3,AP-2gamma,Basic domains,Basic helix-span-helix factors (bHSH),AP2,,ENSMUSG00000028640
+1.3.1.0.4,AP-2delta,Basic domains,Basic helix-span-helix factors (bHSH),AP2,,ENSMUSG00000042596
+1.3.1.0.5,AP-2epsilon,Basic domains,Basic helix-span-helix factors (bHSH),AP2,,ENSMUSG00000042477
+2.1.1.1.1,GR (NR3C1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,GR-like(NR3C),ENSMUSG00000024431
+2.1.1.1.2,MR (NR3C2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,GR-like(NR3C),ENSMUSG00000031618
+2.1.1.1.3,PR (NR3C3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,GR-like(NR3C),ENSMUSG00000031870
+2.1.1.1.4,AR (NR3C4),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,GR-like(NR3C),"ENSMUSG00000001642,ENSMUSG00000046532,ENSMUSG00000029378,ENSMUSG00000032274,ENSMUSG00000018861"
+2.1.1.2.1,"ERALPHA (ESR1, NR3A1)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,ER-like(NR3A),ENSMUSG00000019768
+2.1.1.2.2,"ERBETA (ESR2, NR3A2)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,ER-like(NR3A),ENSMUSG00000021055
+2.1.1.2.3,"ERR1 (ERRalpha, NR3B1)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,ER-like(NR3A),ENSMUSG00000024955
+2.1.1.2.4,"ERR2 (ERRbeta, NR3B2, err23)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,ER-like(NR3A),ENSMUSG00000021255
+2.1.1.2.5,"ERR3 (ERRgamma, NR3B3)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Steroid hormone receptors,ER-like(NR3A),ENSMUSG00000026610
+2.1.2.1.1,"RARALPHA (RARA, NR1B1)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,RAR(NR1B),ENSMUSG00000037992
+2.1.2.1.2,"RARBETA (RARB, NR1B2)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,RAR(NR1B),ENSMUSG00000017491
+2.1.2.1.3,"RARGAMMA (RARG, NR1B3)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,RAR(NR1B),ENSMUSG00000001288
+2.1.2.2.1,T3RALPHA (NR1A1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,T3R(NR1A),ENSMUSG00000058756
+2.1.2.2.2,T3RBETA (NR1A2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,T3R(NR1A),ENSMUSG00000021779
+2.1.2.3.1,REV-ERBAALPHA (NR1D1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,REVERBA(NR1D),ENSMUSG00000020889
+2.1.2.3.2,REV-ERBABETA (NR1D2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,REVERBA(NR1D),ENSMUSG00000021775
+2.1.2.4.1,VDR(NR1I1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,VDR(NR1I),"ENSMUSG00000006724,ENSMUSG00000022479"
+2.1.2.4.2,PXR (NR1I2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,VDR(NR1I),"ENSMUSG00000022805,ENSMUSG00000022809"
+2.1.2.4.3,CAR (NR1I3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,VDR(NR1I),ENSMUSG00000005677
+2.1.2.5.1,"PPARALPHA (NR1C1, pparalpha2)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,PPAR(NR1C),ENSMUSG00000022383
+2.1.2.5.2,PPARBETA (NR1C2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,PPAR(NR1C),ENSMUSG00000002250
+2.1.2.5.3,PPARGAMMA (NR1C3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,PPAR(NR1C),ENSMUSG00000000440
+2.1.2.6.1,"RORALPHA (RORABa, NR1F1)",Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,ROR(NR1F),ENSMUSG00000032238
+2.1.2.6.2,RORBETA (NR1F2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,ROR(NR1F),ENSMUSG00000036192
+2.1.2.6.3,RORGAMMA (NR1F3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,ROR(NR1F),ENSMUSG00000028150
+2.1.2.7.1,LXRALPHA (NR1H3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,LXR(NR1H),ENSMUSG00000002108
+2.1.2.7.2,LXRBETA (NR1H2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,LXR(NR1H),ENSMUSG00000060601
+2.1.2.7.3,FXR (NR1H4),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,Thyroid hormone receptor-related factors,LXR(NR1H),ENSMUSG00000047638
+2.1.3.1.1,RXRALPHA (NR2B1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,RXR(NR2B),ENSMUSG00000015846
+2.1.3.1.2,RXRBETA (NR2B2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,RXR(NR2B),ENSMUSG00000039656
+2.1.3.1.3,RXRGAMMA (NR2B3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,RXR(NR2B),ENSMUSG00000015843
+2.1.3.2.1,HNF4ALPHA (NR2A1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,HNF4(NR2A),"ENSMUSG00000029556,ENSMUSG00000017950"
+2.1.3.2.2,HNF4GAMMA (NR2A2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,HNF4(NR2A),ENSMUSG00000017688
+2.1.3.3.1,TLX (NR2E1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,TLX(NR2E1),ENSMUSG00000019803
+2.1.3.3.2,PNR (NR2E3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,TLX(NR2E1),ENSMUSG00000032292
+2.1.3.4.1,TR2 (NR2C1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,TR(NR2C),ENSMUSG00000005897
+2.1.3.4.2,TR4 (NR2C2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,TR(NR2C),ENSMUSG00000005893
+2.1.3.5.1,COUPTFI (NR2F1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,COUP(NR2F),ENSMUSG00000069171
+2.1.3.5.2,COUPTFII (NR2F2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,COUP(NR2F),ENSMUSG00000030551
+2.1.3.5.3,EAR2 (NR2F6),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,RXR-related receptors,COUP(NR2F),ENSMUSG00000002393
+2.1.4.0.1,NGFI-B (NR4A1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,NGFI(NR4A),,ENSMUSG00000023034
+2.1.4.0.2,NURR1 (NR4A2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,NGFI(NR4A),,ENSMUSG00000026826
+2.1.4.0.3,NOR1 (NR4A3),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,NGFI(NR4A),,ENSMUSG00000028341
+2.1.5.0.1,FTZ-F1 (SF-1) (NR5A1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,FTZF1related(NR5A),,ENSMUSG00000026751
+2.1.5.0.2,LRH1 (NR5A2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,FTZF1related(NR5A),,ENSMUSG00000026398
+2.1.6.0.1,GCNF (NR6A1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,GCNF(NR6),,"ENSMUSG00000026751,ENSMUSG00000063972"
+2.1.7.0.1,DAX1 (NR0B1),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,DAXrelated(NR0),,ENSMUSG00000025056
+2.1.7.0.2,SHP (NR0B2),Zinc-coordinating DNA-binding domains,Nuclear receptors with C4 zinc fingers,DAXrelated(NR0),,ENSMUSG00000037583
+2.2.1.1.1,GATA1,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000031162
+2.2.1.1.2,GATA2,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000015053
+2.2.1.1.3,GATA3,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000015619
+2.2.1.1.4,GATA4,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000021944
+2.2.1.1.5,GATA5,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000015627
+2.2.1.1.6,GATA6,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA double,ENSMUSG00000005836
+2.2.1.2.1,GATAD1,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000007415
+2.2.1.2.2,GATAD2A,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000036180
+2.2.1.2.3,GATAD2B,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000042390
+2.2.1.2.4,RERE,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000039852
+2.2.1.2.5,MTA1,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000021144
+2.2.1.2.6,MTA2,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000071646
+2.2.1.2.7,MTA3,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000055817
+2.2.1.2.8,ZGLP1,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000079681
+2.2.1.2.9,DNMT3A,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000020661
+2.2.1.2.10,DNMT3B,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000027478
+2.2.1.2.11,DNMT3L,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000000730
+2.2.1.2.12,ATRX,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000031229
+2.2.1.2.13,TRPS1,Zinc-coordinating DNA-binding domains,Other C4 zinc finger-type factors,C4-GATA-related,GATA single,ENSMUSG00000038679
+2.3.1.1.1,Sp1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,"ENSMUSG00000053226,ENSMUSG00000001280"
+2.3.1.1.2,Sp2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,"ENSMUSG00000018678,ENSMUSG00000044068"
+2.3.1.1.3,Sp3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,ENSMUSG00000027109
+2.3.1.1.4,Sp4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,ENSMUSG00000025323
+2.3.1.1.5,Sp5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,"ENSMUSG00000031802,ENSMUSG00000075304"
+2.3.1.1.6,Sp6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,"ENSMUSG00000038560,ENSMUSG00000039701"
+2.3.1.1.7,Sp7,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,ENSMUSG00000060284
+2.3.1.1.8,Sp8,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,ENSMUSG00000048562
+2.3.1.1.9,Sp9,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Sp1-like,ENSMUSG00000068859
+2.3.1.2.1,KLF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000054191
+2.3.1.2.2,KLF2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000055148
+2.3.1.2.3,KLF3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000029178
+2.3.1.2.4,KLF4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000003032
+2.3.1.2.5,KLF5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000005148
+2.3.1.2.6,KLF6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000000078
+2.3.1.2.7,KLF7,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000025959
+2.3.1.2.8,KLF8,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000041649
+2.3.1.2.9,KLF9,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000033863
+2.3.1.2.10,KLF10,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000037465
+2.3.1.2.11,KLF11,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000020653
+2.3.1.2.12,KLF12,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000072294
+2.3.1.2.13,KLF13,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000052040
+2.3.1.2.14,KLF14,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,"ENSMUSG00000073209,ENSMUSG00000038560"
+2.3.1.2.15,KLF15,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000030087
+2.3.1.2.16,KLF16,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000035397
+2.3.1.2.17,KLF17,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,Kr-like,ENSMUSG00000048626
+2.3.1.3.1,EGR1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,EGR,ENSMUSG00000038418
+2.3.1.3.2,EGR2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,EGR,ENSMUSG00000037868
+2.3.1.3.3,EGR3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,EGR,ENSMUSG00000033730
+2.3.1.3.4,EGR4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Three-zinc finger Krüppel-related,EGR,ENSMUSG00000071341
+2.3.2.1.1,ZBTB5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000049657
+2.3.2.1.2,ZBTB8B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000048485
+2.3.2.1.6,ZBTB22,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000051390
+2.3.2.1.7,ZBTB32,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,"ENSMUSG00000066687,ENSMUSG00000006310"
+2.3.2.1.8,ZBTB34,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000068966
+2.3.2.1.9,ZBTB37,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000043467
+2.3.2.1.10,ZBTB43,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000026788
+2.3.2.1.11,ZBTB46,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000027583
+2.3.2.1.12,ZBTB33,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,BTB-POZ,ENSMUSG00000048047
+2.3.2.2.1,ZNF487,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,KRAB,
+2.3.2.2.3,ZNF705A (znf705),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,KRAB,ENSMUSG00000049037
+2.3.2.3.1,ZSCAN1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,SCAN,
+2.3.2.3.2,ZNF174,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,SCAN,ENSMUSG00000054939
+2.3.2.3.3,ZNF396,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,SCAN,
+2.3.2.3.4,ZNF446,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,SCAN,ENSMUSG00000033961
+2.3.2.4.1,ZNF414,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,ENSMUSG00000073423
+2.3.2.4.2,ZNF511,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,ENSMUSG00000025470
+2.3.2.4.3,ZNF580,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,"ENSMUSG00000055633,ENSMUSG00000074405"
+2.3.2.4.5,ZNF740,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,ENSMUSG00000046897
+2.3.2.4.6,ZFPM2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,ENSMUSG00000022306
+2.3.2.4.7,OSR1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,"ENSMUSG00000035399,ENSMUSG00000048387,ENSMUSG00000036737"
+2.3.2.4.8,OVOL3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,"ENSMUSG00000037279,ENSMUSG00000100512"
+2.3.2.4.9,AEBP2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Other factors with up to three adjacent zinc fingers,Other,ENSMUSG00000030232
+2.3.3.1.1,GLI1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000025407
+2.3.3.1.2,GLI2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000048402
+2.3.3.1.3,GLI3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000021318
+2.3.3.1.4,GLIS1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000034762
+2.3.3.1.5,GLIS2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000014303
+2.3.3.1.6,GLIS3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000052942
+2.3.3.1.7,ZIC1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000032368
+2.3.3.1.8,ZIC2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000061524
+2.3.3.1.9,ZIC3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000067860
+2.3.3.1.10,ZIC4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000036972
+2.3.3.1.11,ZIC5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GLI-lile,ENSMUSG00000041703
+2.3.3.2.1,SNAI1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,Snail-like,ENSMUSG00000042821
+2.3.3.2.2,SNAI2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,Snail-like,ENSMUSG00000022676
+2.3.3.2.3,SNAI3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,Snail-like,ENSMUSG00000006587
+2.3.3.2.4,SCRT1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,Snail-like,ENSMUSG00000048385
+2.3.3.2.5,SCRT2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,Snail-like,"ENSMUSG00000048385,ENSMUSG00000060257"
+2.3.3.3.1,ZFP91,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP91-like,ENSMUSG00000024695
+2.3.3.3.2,ZNF692,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP91-like,ENSMUSG00000037243
+2.3.3.3.3,ZNF276,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP91-like,ENSMUSG00000001065
+2.3.3.3.4,ZNF653,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP91-like,ENSMUSG00000038895
+2.3.3.4.1,ZNF280A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF280-like,
+2.3.3.4.2,ZNF280B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF280-like,ENSMUSG00000049764
+2.3.3.4.3,ZNF280C (znf280cd),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF280-like,ENSMUSG00000036916
+2.3.3.4.4,ZNF280D,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF280-like,ENSMUSG00000038535
+2.3.3.4.5,POGZ,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF280-like,"ENSMUSG00000024413,ENSMUSG00000038902"
+2.3.3.5.1,"ZSCAN5A (zscan5, zscan51, zscan52, zscan53, zscan54, zscan55, zscan56, zscan57, zscan58)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZSCAN5-like,ENSMUSG00000058028
+2.3.3.5.2,ZSCAN5B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZSCAN5-like,ENSMUSG00000058028
+2.3.3.5.3,ZSCAN5C,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZSCAN5-like,
+2.3.3.5.4,ZSCAN5D,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZSCAN5-like,
+2.3.3.5.5,ZSCAN4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZSCAN5-like,"ENSMUSG00000095339,ENSMUSG00000054272,ENSMUSG00000090714,ENSMUSG00000095936,ENSMUSG00000070828"
+2.3.3.6.1,ZNF75A (znf75ad),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF75-like,
+2.3.3.6.3,ZNF75D,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF75-like,
+2.3.3.6.4,ZNF213,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF75-like,ENSMUSG00000071256
+2.3.3.7.1,ZNF705D,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF705,
+2.3.3.7.2,ZNF705F,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF705,
+2.3.3.7.3,ZNF705G,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF705,
+2.3.3.7.4,ZNF705E,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF705,
+2.3.3.8.1,ZBTB7A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB7,ENSMUSG00000035011
+2.3.3.8.2,ZBTB7B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB7,ENSMUSG00000028042
+2.3.3.8.3,ZBTB7C,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB7,ENSMUSG00000044646
+2.3.3.9.1,YY1 (YY12),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,YY1-like,ENSMUSG00000021264
+2.3.3.9.2,YY2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,YY1-like,"ENSMUSG00000021264,ENSMUSG00000091736"
+2.3.3.9.3,ZFP42,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,YY1-like,ENSMUSG00000051176
+2.3.3.10.1,ZNF24,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,ENSMUSG00000051469
+2.3.3.10.2,ZNF193,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,
+2.3.3.10.3,ZSCAN23,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,
+2.3.3.10.4,GLI4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,
+2.3.3.10.5,ZNF232,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,
+2.3.3.10.6,ZKSCAN1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,"ENSMUSG00000037007,ENSMUSG00000029729"
+2.3.3.10.7,ZNF323,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF24-like,ENSMUSG00000030757
+2.3.3.11.1,ZBTB6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB6-like,ENSMUSG00000066798
+2.3.3.11.2,ZBTB26,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB6-like,ENSMUSG00000050714
+2.3.3.11.3,ZBTB12,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB6-like,ENSMUSG00000049823
+2.3.3.12.1,PRDM1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,PRDM1-like,ENSMUSG00000038151
+2.3.3.12.2,ZNF683,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,PRDM1-like,ENSMUSG00000049410
+2.3.3.13.1,ZNF148,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF148-like,ENSMUSG00000022811
+2.3.3.13.2,ZNF281,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF148-like,ENSMUSG00000041483
+2.3.3.14.1,ZBTB20,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB20-like,ENSMUSG00000022708
+2.3.3.14.2,ZBTB45,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZBTB20-like,ENSMUSG00000049600
+2.3.3.15.1,ZNF524,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF524-like,ENSMUSG00000051184
+2.3.3.15.2,ZNF581,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF524-like,ENSMUSG00000035228
+2.3.3.16.1,ZNF238,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF238-like,ENSMUSG00000063659
+2.3.3.16.2,ZBTB42,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF238-like,ENSMUSG00000037638
+2.3.3.17.1,OVOL1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,OVOL,ENSMUSG00000024922
+2.3.3.17.2,OVOL2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,OVOL,ENSMUSG00000037279
+2.3.3.18.3,"ZNF138 (znf138ortholog, znf138ortholog1, znf138ortholog2, znf138ortholog3, znf138ortholog4, znf138ortholog5, znf138ortholog6, znf138ortholog7)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF56-like,
+2.3.3.19.1,ZNF500,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF500-like,
+2.3.3.19.2,ZNF853,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF500-like,"ENSMUSG00000046658,ENSMUSG00000093910"
+2.3.3.19.3,ZKSCAN2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF500-like,ENSMUSG00000030757
+2.3.3.19.4,ZSCAN29,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF500-like,ENSMUSG00000050619
+2.3.3.19.5,ZNF434,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF500-like,
+2.3.3.20.1,FEZF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,FEZF,ENSMUSG00000029697
+2.3.3.20.2,FEZF2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,FEZF,ENSMUSG00000021743
+2.3.3.21.1,GFI1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GFI1,ENSMUSG00000029275
+2.3.3.21.2,GFI1B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,GFI1,ENSMUSG00000026815
+2.3.3.22.1,BCL6B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,BCL6,ENSMUSG00000000317
+2.3.3.22.2,BCL6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,BCL6,ENSMUSG00000022508
+2.3.3.23.1,ZNF212,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF212-like,ENSMUSG00000052763
+2.3.3.23.2,ZNF777,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF212-like,ENSMUSG00000071477
+2.3.3.24.1,MTF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,MTF1-like,"ENSMUSG00000022780,ENSMUSG00000028890,ENSMUSG00000010505"
+2.3.3.24.2,ZNF410,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,MTF1-like,"ENSMUSG00000021234,ENSMUSG00000042472"
+2.3.3.25.1,PLAGL2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,PLAG,ENSMUSG00000051413
+2.3.3.25.2,PLAG1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,PLAG,ENSMUSG00000003282
+2.3.3.25.3,PLAGL1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,PLAG,ENSMUSG00000019817
+2.3.3.26.1,ZKSCAN3 (zkscan34),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZKSCAN3-like,ENSMUSG00000021327
+2.3.3.26.2,ZKSCAN4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZKSCAN3-like,ENSMUSG00000054931
+2.3.3.27.1,ZNF525,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF525-like,
+2.3.3.27.2,ZNF701,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF525-like,
+2.3.3.27.3,ZNF765,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF525-like,
+2.3.3.27.4,ZNF468,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF525-like,ENSMUSG00000023892
+2.3.3.28.1,ZNF76,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF76-like,ENSMUSG00000024220
+2.3.3.28.2,ZNF143,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF76-like,ENSMUSG00000061079
+2.3.3.29.1,ZNF652,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF652-like,ENSMUSG00000075595
+2.3.3.29.2,ZBTB47,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF652-like,ENSMUSG00000013419
+2.3.3.30.1,ZNF350 (znf350ortholog),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF350-like,
+2.3.3.30.2,ZNF577,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF350-like,
+2.3.3.30.3,"ZNF649 (znf649ortholog, znf649ortholog1, znf649ortholog2, znf649ortholog3, znf649ortholog4, znf649ortholog5, znf649ortholog6, znf649ortholog7, znf649ortholog8, znf649ortholog9, znf649ortholog10, znf649ortholog11, znf649ortholog12, znf649ortholog13)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF350-like,
+2.3.3.30.4,ZNF613,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF350-like,ENSMUSG00000036898
+2.3.3.30.5,ZNF614,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF350-like,
+2.3.3.31.1,ZNF642,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF642-like,"ENSMUSG00000064141,ENSMUSG00000046185"
+2.3.3.31.2,ZNF643,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF642-like,
+2.3.3.31.3,ZNF570,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF642-like,
+2.3.3.31.4,ZNF583,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF642-like,ENSMUSG00000030443
+2.3.3.32.1,ZNF679,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF679-like,
+2.3.3.33.1,ZNF763,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000067430
+2.3.3.33.2,ZNF844,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.3,ZNF625,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.4,ZNF669,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000092260
+2.3.3.33.5,ZNF670,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.6,ZNF124,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,"ENSMUSG00000092390,ENSMUSG00000067430"
+2.3.3.33.7,ZNF627,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000054519
+2.3.3.33.8,ZNF439,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.9,ZNF440,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.10,ZNF77,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.11,ZNF490,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.12,ZNF563,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000067424
+2.3.3.33.13,ZNF57,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.15,ZNF136,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.16,ZNF564,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.17,ZNF20,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,
+2.3.3.33.18,ZNF878,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000066880
+2.3.3.33.19,ZNF555,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF763-like,ENSMUSG00000099689
+2.3.3.34.1,ZNF3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF3-like,ENSMUSG00000037007
+2.3.3.34.2,ZNF397,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF3-like,"ENSMUSG00000024276,ENSMUSG00000024274"
+2.3.3.35.1,ZNF620,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,
+2.3.3.35.2,ZNF621,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,
+2.3.3.35.3,ZNF566,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,ENSMUSG00000078768
+2.3.3.35.4,ZNF619,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,
+2.3.3.35.5,"ZNF383 (znf383ortholog, znf383ortholog1, znf383ortholog2, znf383ortholog3, znf383ortholog4, znf383ortholog5, znf383ortholog6, znf383ortholog7, znf383ortholog8, znf383ortholog9, znf383ortholog10, znf383ortholog11, znf383ortholog12, znf383ortholog13, znf383ortholog14, znf383ortholog15, znf383ortholog16, znf383ortholog17, znf383ortholog18, znf383ortholog19, znf383ortholog20, znf383ortholog21, znf383ortholog22, znf383ortholog23, znf383ortholog24, znf383ortholog25, znf383ortholog26, znf383ortholog27, znf383ortholog28, znf383ortholog29, znf383ortholog30, znf383ortholog31, znf383ortholog32, znf383ortholog33, znf383ortholog34, znf383ortholog35, znf383ortholog36, znf383ortholog37, znf383ortholog38, znf383ortholog39, znf383ortholog40, znf383ortholog41, znf383ortholog42, znf383ortholog43, znf383ortholog44, znf383ortholog45, znf383ortholog46, znf383ortholog47, znf383ortholog48, znf383ortholog49, znf383ortholog50, znf383ortholog51, znf383ortholog52, znf383ortholog53, znf383ortholog54, znf383ortholog55, znf383ortholog56, znf383ortholog57, znf383ortholog58, znf383ortholog59, znf383ortholog60, znf383ortholog61, znf383ortholog62, znf383ortholog63, znf383ortholog64, znf383ortholog65)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,ENSMUSG00000099689
+2.3.3.35.6,ZNF829,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,
+2.3.3.35.7,ZNF582,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF620-like,
+2.3.3.36.1,ZNF324A (ZNF324),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF324,ENSMUSG00000004500
+2.3.3.36.2,ZNF324B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF324,ENSMUSG00000004500
+2.3.3.37.1,ZNF362,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF362-like,ENSMUSG00000028799
+2.3.3.37.2,ZNF384,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF362-like,ENSMUSG00000038346
+2.3.3.38.1,ZNF282,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF282-like,ENSMUSG00000025821
+2.3.3.38.2,ZNF398,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF282-like,ENSMUSG00000062519
+2.3.3.39.1,ZNF764,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF764-like,ENSMUSG00000045757
+2.3.3.39.2,ZNF785,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF764-like,
+2.3.3.39.3,ZNF771,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF764-like,"ENSMUSG00000045598,ENSMUSG00000054716"
+2.3.3.40.1,ZNF177,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF177-like,
+2.3.3.40.2,ZNF891,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF177-like,
+2.3.3.40.3,ZNF333,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF177-like,
+2.3.3.41.1,ZNF32,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF32-like,"ENSMUSG00000033717,ENSMUSG00000059689"
+2.3.3.41.2,ZIK1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF32-like,ENSMUSG00000030393
+2.3.3.42.2,"ZNF419 (ZNF419a, ZNF419b)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF773-like,
+2.3.3.43.1,ZNF558 (ZNF558/ZNF557),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF558-like,ENSMUSG00000074500
+2.3.3.43.2,ZNF557,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF558-like,
+2.3.3.44.1,ZNF302,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF302-like,ENSMUSG00000099689
+2.3.3.44.2,ZNF2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF302-like,ENSMUSG00000034800
+2.3.3.44.3,ZNF181,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF302-like,
+2.3.3.44.4,ZNF140,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF302-like,
+2.3.3.45.1,ZNF562,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF562-like,
+2.3.3.45.2,ZNF812,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF562-like,
+2.3.3.45.3,ZNF561,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF562-like,
+2.3.3.45.4,ZNF559,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF562-like,
+2.3.3.45.5,ZNF846,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF562-like,ENSMUSG00000058192
+2.3.3.46.1,"ZXDA (ZXDABZXDB1, ZXDB1)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZXD,"ENSMUSG00000073060,ENSMUSG00000073062"
+2.3.3.46.2,ZXDB,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZXD,ENSMUSG00000073062
+2.3.3.46.3,ZXDC,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZXD,ENSMUSG00000034430
+2.3.3.47.1,ZNF222,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.2,ZNF223,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.3,ZNF230,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,ENSMUSG00000030788
+2.3.3.47.4,ZNF155,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.5,ZNF221,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.6,ZNF224,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.7,ZNF225,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,ENSMUSG00000038418
+2.3.3.47.8,ZNF284,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.9,ZNF235,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,ENSMUSG00000047603
+2.3.3.47.10,ZNF45,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.11,ZNF229,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.12,ZNF227,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.47.13,ZNF226,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,"ENSMUSG00000050605,ENSMUSG00000087598"
+2.3.3.47.14,ZNF234,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF222-like,
+2.3.3.48.1,ZNF736,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF736-like,
+2.3.3.48.2,ZNF727,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF736-like,
+2.3.3.49.1,ZNF286A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF286,ENSMUSG00000047342
+2.3.3.49.2,ZNF286B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF286,
+2.3.3.50.1,CTCF,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,CTCF-like,ENSMUSG00000005698
+2.3.3.50.2,CTCFL,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,CTCF-like,ENSMUSG00000070495
+2.3.3.51.1,ZNF366,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF366-like,ENSMUSG00000050919
+2.3.3.51.2,ZNF710,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF366-like,ENSMUSG00000048897
+2.3.3.52.1,ZNF322A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF322-like,ENSMUSG00000046351
+2.3.3.53.1,ZNF548,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF548-like,
+2.3.3.53.2,ZNF776,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF548-like,
+2.3.3.54.1,ZNF460,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF460-like,
+2.3.3.54.2,"ZNF264 (znf264ortholog, znf264ortholog1, znf264ortholog2)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF460-like,
+2.3.3.54.3,ZNF805,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF460-like,
+2.3.3.54.4,ZNF543,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF460-like,
+2.3.3.54.5,ZNF599,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF460-like,
+2.3.3.55.1,ZNF146,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF146-like,"ENSMUSG00000037029,ENSMUSG00000049421"
+2.3.3.55.2,ZNF260,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF146-like,ENSMUSG00000049421
+2.3.3.56.1,ZNF214,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF214-like,
+2.3.3.56.2,ZNF285,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF214-like,
+2.3.3.56.3,ZNF233,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF214-like,
+2.3.3.57.1,ZNF479,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF479-like,
+2.3.3.58.1,ZNF180,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,ENSMUSG00000057101
+2.3.3.58.2,ZNF544,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,
+2.3.3.58.3,ZNF436,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,ENSMUSG00000051351
+2.3.3.58.4,ZNF572,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,
+2.3.3.58.5,ZNF774,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,
+2.3.3.58.6,ZSCAN2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF180-like,ENSMUSG00000038797
+2.3.3.59.3,ZNF431,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF100-like,
+2.3.3.61.1,ZNF343,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF343-like,
+2.3.3.61.2,HKR1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF343-like,
+2.3.3.61.3,ZNF169,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF343-like,ENSMUSG00000050954
+2.3.3.61.4,ZNF133,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF343-like,
+2.3.3.62.1,ZFP2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP2-like,"ENSMUSG00000049321,ENSMUSG00000020335"
+2.3.3.62.2,ZNF71,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP2-like,
+2.3.3.62.3,ZNF568,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP2-like,"ENSMUSG00000074221,ENSMUSG00000096433"
+2.3.3.63.1,ZFP30,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP30-like,ENSMUSG00000047473
+2.3.3.63.2,ZFP82,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP30-like,ENSMUSG00000098022
+2.3.3.63.3,ZFP14,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFP30-like,ENSMUSG00000053985
+2.3.3.64.1,ZNF354A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF354A-like,ENSMUSG00000020364
+2.3.3.64.2,ZNF354B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF354A-like,ENSMUSG00000020335
+2.3.3.65.1,ZFX,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZFX-ZFY,ENSMUSG00000079509
+2.3.3.66.1,ZNF689,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF689-like,ENSMUSG00000048921
+2.3.3.66.2,ZNF672,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF689-like,ENSMUSG00000049755
+2.3.3.67.1,ZNF283,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.2,ZNF345,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.3,ZNF404,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.4,ZNF571,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.5,ZNF30,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.6,ZNF420,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,ENSMUSG00000058402
+2.3.3.67.7,ZNF607,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,
+2.3.3.67.8,ZNF546,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,ENSMUSG00000051034
+2.3.3.67.9,"ZNF780A (znf780ab, znf780ab1, znf780ab2)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,"ENSMUSG00000020420,ENSMUSG00000057093"
+2.3.3.67.10,ZNF780B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF283-like,ENSMUSG00000063047
+2.3.3.68.1,ZNF81,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,
+2.3.3.68.2,ZNF175,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,ENSMUSG00000012640
+2.3.3.68.3,"ZNF41 (znf41ortholog1, znf41ortholog2, znf41ortholog3, znf41ortholog4)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,
+2.3.3.68.4,ZNF484,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,
+2.3.3.68.5,"ZNF585B znf585ortholog1, znf585ortholog2, znf585ortholog3, znf585ortholog4, znf585ortholog5, znf585ortholog6, znf585ortholog7, znf585ortholog8, znf585ortholog9, znf585ortholog10, znf585ortholog11, znf585ortholog12, znf585ortholog13, znf585ortholog14, znf585ortholog15, znf585ortholog16, znf585ortholog17, znf585ortholog18, znf585ortholog19, znf585ortholog, znf585ortholog1, znf585ortholog2, znf585ortholog3, znf585ortholog4, znf585ortholog5, znf585ortholog6, znf585ortholog7, znf585ortholog8, znf585ortholog9, znf585ortholog10, znf585ortholog11, znf585ortholog12, znf585ortholog13, znf585ortholog14, znf585ortholog15, znf585ortholog16, znf585ortholog17, znf585ortholog18, znf585ortholog19, ZNF5851, ZNF5852)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,
+2.3.3.68.6,ZNF585A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF81-like,ENSMUSG00000062040
+2.3.3.69.1,ZNF25,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,ENSMUSG00000072623
+2.3.3.69.2,ZNF157,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,
+2.3.3.69.3,ZFP37,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,ENSMUSG00000028389
+2.3.3.69.4,ZNF567,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,ENSMUSG00000031079
+2.3.3.69.5,ZNF782,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,
+2.3.3.69.6,"ZNF33A (znf33, znf33ortholog, znf33ortholog1, znf33ortholog2)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,
+2.3.3.69.7,ZNF33B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF25-like,
+2.3.3.70.1,ZNF26,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF26-like,
+2.3.3.70.2,ZNF268 (znf268ortholog),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF26-like,ENSMUSG00000078502
+2.3.3.71.1,ZNF300,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF300-like,
+2.3.3.71.2,ZNF605,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF300-like,ENSMUSG00000023284
+2.3.3.72.1,"ZNF813 (znf8138451, znf8138452)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.72.2,ZNF860,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.72.3,ZNF611,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.72.4,ZNF600,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.72.5,ZNF808,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.72.7,"ZNF845 (znf845ortholog, znf845ortholog1, znf845ortholog2, znf845ortholog3, znf845ortholog4, znf845ortholog5, znf845ortholog6, znf845ortholog7)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF813-like,
+2.3.3.73.1,ZNF816 (ZNF816A),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF816A-like,
+2.3.3.73.2,ZNF28,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF816A-like,
+2.3.3.74.1,ZNF442,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF442-like,"ENSMUSG00000078886,ENSMUSG00000078897,ENSMUSG00000078887,ENSMUSG00000078878,ENSMUSG00000078880,ENSMUSG00000095362,ENSMUSG00000078862,ENSMUSG00000078903,ENSMUSG00000078868,ENSMUSG00000078881,ENSMUSG00000089756,ENSMUSG00000095199,ENSMUSG00000078866,ENSMUSG00000074519"
+2.3.3.74.2,ZNF823,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF442-like,
+2.3.3.74.3,ZNF44,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF442-like,
+2.3.3.74.4,ZNF799,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF442-like,ENSMUSG00000095253
+2.3.3.74.5,ZNF443,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF442-like,ENSMUSG00000056019
+2.3.3.75.1,ZNF432,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF432-like,
+2.3.3.75.2,"ZNF615 (znf615ortholog1, znf615ortholog2, znf615ortholog3, znf615ortholog4, znf615ortholog5)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF432-like,
+2.3.3.76.1,ZNF665 (znf665ortholog),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF665-like,ENSMUSG00000067942
+2.3.3.76.2,ZNF160 (ZNF160ortholog),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF665-like,
+2.3.3.76.3,ZNF347,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF665-like,
+2.3.3.77.1,ZNF595,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF595-like,ENSMUSG00000057842
+2.3.3.77.2,ZNF721,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF595-like,
+2.3.3.78.1,ZNF14,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF14-like,"ENSMUSG00000056019,ENSMUSG00000069727,ENSMUSG00000074158"
+2.3.3.78.2,ZNF709,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF14-like,
+2.3.3.79.1,ZNF841 (znf841ortholog),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF841-like,
+2.3.3.79.2,ZNF836,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF841-like,
+2.3.3.79.3,ZNF616,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF841-like,"ENSMUSG00000078502,ENSMUSG00000067919,ENSMUSG00000062518,ENSMUSG00000066007,ENSMUSG00000066000,ENSMUSG00000058186,ENSMUSG00000056300,ENSMUSG00000078495,ENSMUSG00000065999,ENSMUSG00000066009,ENSMUSG00000067916,ENSMUSG00000070605"
+2.3.3.80.1,ZNF99,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF99-like,
+2.3.3.80.2,ZNF729,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,ZNF99-like,"ENSMUSG00000021510,ENSMUSG00000058093,ENSMUSG00000048280,ENSMUSG00000054648"
+2.3.3.0.1,ZFP161,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000049672
+2.3.3.0.10,ZNF781,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.11,ZNF114,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.12,ZNF589,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.13,ZNF22,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000059878
+2.3.3.0.14,ZNF713,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.15,ZSCAN16,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.20,ZNF18,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000018347
+2.3.3.0.21,WT1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000016458
+2.3.3.0.23,PRDM6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000069378
+2.3.3.0.24,ZNF444,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000044876
+2.3.3.0.25,ZNF641,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000022987
+2.3.3.0.26,ZNF746,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000057691
+2.3.3.0.27,ZIM2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000108113
+2.3.3.0.31,ZNF655,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000007812
+2.3.3.0.32,ZNF165,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.34,ZNF131,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000094870
+2.3.3.0.35,PRDM14,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000042414
+2.3.3.0.37,ZNF575,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000066721
+2.3.3.0.38,ZBTB49,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000029127
+2.3.3.0.39,ZNF691,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000045268
+2.3.3.0.43,ZSCAN30,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000033961,ENSMUSG00000024274"
+2.3.3.0.45,ZNF80,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.46,ZNF514,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.47,ZSCAN21,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000037017
+2.3.3.0.54,MYNN,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000037730
+2.3.3.0.55,ZBTB24,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000019826
+2.3.3.0.57,ZFP92,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000031374
+2.3.3.0.58,ZNF205,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000062012
+2.3.3.0.59,ZNF837,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.67,ZNF584,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.68,ZNF684,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.69,ZNF187,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000022228
+2.3.3.0.70,ZSCAN22,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000060397,ENSMUSG00000054715"
+2.3.3.0.71,ZNF550,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.78,ZNF696,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.79,ZNF263,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000022529
+2.3.3.0.80,ZNF556,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.81,ZNF192,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000063894
+2.3.3.0.82,ZNF391,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.83,ZNF239,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000042097
+2.3.3.0.91,ZNF660,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.92,GZF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000027439
+2.3.3.0.93,ZNF408,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000075040,ENSMUSG00000049577"
+2.3.3.0.94,ZNF648,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000066797
+2.3.3.0.95,ZNF768,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000047371
+2.3.3.0.100,ZNF35,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000057895
+2.3.3.0.101,ZNF483,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000038630
+2.3.3.0.102,ZBTB48,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000028952
+2.3.3.0.103,ZNF275,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000031365
+2.3.3.0.104,ZIM3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000108043
+2.3.3.0.106,ZNF596,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.111,ZNF718,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.112,ZNF121,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.113,ZNF485,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.114,ZNF354C,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000044807
+2.3.3.0.115,ZNF586,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.118,ZNF10,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.119,ZNF19,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.123,ZBTB40,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000060862
+2.3.3.0.124,ZBTB11,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000022601
+2.3.3.0.125,ZNF454,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000048728
+2.3.3.0.126,ZNF154,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.127,ZNF416,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000034538
+2.3.3.0.130,ZNF34,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.136,ZNF320,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.142,ZNF331,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.148,ZNF329,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000057894,ENSMUSG00000099689"
+2.3.3.0.149,ZFP90,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000031907
+2.3.3.0.150,ZNF317,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000057551
+2.3.3.0.159,ZNF167,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000111063,ENSMUSG00000063488"
+2.3.3.0.160,ZNF250,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000054967
+2.3.3.0.161,ZNF623,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000050846
+2.3.3.0.162,ZFP3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000043602
+2.3.3.0.165,ZNF266,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000060510
+2.3.3.0.166,ZNF311,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.173,ZNF880,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.174,ZNF287,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000005267
+2.3.3.0.180,ZNF549,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.183,ZNF676,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000030446
+2.3.3.0.186,ZNF267,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000033883
+2.3.3.0.191,ZNF471,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000055150
+2.3.3.0.192,ZFP28,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000062861,ENSMUSG00000096433"
+2.3.3.0.193,ZNF182,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000054737,ENSMUSG00000052763"
+2.3.3.0.195,PRDM5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000029913
+2.3.3.0.196,RBAK,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000061898
+2.3.3.0.197,ZNF189,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000039634
+2.3.3.0.202,ZNF135,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.210,ZNF23,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000044676
+2.3.3.0.215,ZNF569,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000059975
+2.3.3.0.216,ZNF84,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.220,ZNF184,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000006720
+2.3.3.0.221,ZNF441,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.224,ZNF433,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000112640,ENSMUSG00000112790,ENSMUSG00000096795"
+2.3.3.0.225,ZNF337,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.226,ZNF726,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000090641
+2.3.3.0.227,ZNF624,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000094622
+2.3.3.0.228,ZNF197,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000057895
+2.3.3.0.232,ZNF594,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.233,ZNF107,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.234,ZNF208,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000068959
+2.3.3.0.3,ZNF496,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000020472
+2.3.3.0.6,ZNF274,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000058638,ENSMUSG00000021514"
+2.3.3.0.7,ZNF200,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.9,OSR2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000022330
+2.3.3.0.16,ZNF793,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.17,ZFP41,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000047003
+2.3.3.0.18,ZNF215,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.28,ZBTB44,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000047412
+2.3.3.0.30,ZNF576,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.40,ZNF394,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000029627
+2.3.3.0.41,ZNF449,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000073176
+2.3.3.0.42,ZNF498 (ZSCAN25),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000070420
+2.3.3.0.51,ZNF707,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000034429
+2.3.3.0.60,ZNF202,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000025602
+2.3.3.0.61,ZNF789,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.62,ZNF662,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000099689
+2.3.3.0.63,ZNF554,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.64,ZNF506,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.72,ZFP1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000055835
+2.3.3.0.74,ZBTB16,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000066687
+2.3.3.0.75,GTF3A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000016503
+2.3.3.0.76,ZFP64,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000027551,ENSMUSG00000031907"
+2.3.3.0.77,ZNF358,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000047264
+2.3.3.0.84,ZNF664,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000079215
+2.3.3.0.87,ZNF501,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.89,ZNF610,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.96,ZNF517,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.97,ZNF547,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.98,ZNF766,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.99,ZNF677,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.109,ZNF682,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.110,ZNF141,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.120,ZSCAN12,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000036721
+2.3.3.0.121,ZNF70,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.122,ZNF79,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.132,ZNF74,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000041649
+2.3.3.0.133,ZNF415,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.134,ZNF480,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.143,ZNF461,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.145,ZNF529,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.146,ZNF565,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000046185
+2.3.3.0.152,MZF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000030380
+2.3.3.0.153,ZNF530,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.156,ZNF695,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.157,ZNF879,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000044296
+2.3.3.0.158,ZNF790,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000011427
+2.3.3.0.167,ZNF551,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,"ENSMUSG00000099689,ENSMUSG00000034071"
+2.3.3.0.168,ZNF497,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.169,ZSCAN10,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000023902
+2.3.3.0.175,ZNF502,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000069184
+2.3.3.0.176,ZNF835,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.177,ZNF560,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000045519
+2.3.3.0.179,ZNF667,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000054893
+2.3.3.0.188,ZNF83,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.189,ZNF528,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.190,ZNF7,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000033669
+2.3.3.0.204,ZNF16,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.205,ZNF17,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.207,ZNF534,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.209,ZNF791,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000074194
+2.3.3.0.217,ZNF749,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.218,ZNF425,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000051499
+2.3.3.0.229,ZNF493,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,
+2.3.3.0.230,ZNF43,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000055480
+2.3.3.0.231,ZFP62,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000046311
+2.3.3.0.235,ZNF91,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,More than 3 adjacent zinc fingers,unclassified,ENSMUSG00000054648
+2.3.4.1.1,ZNF417,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.2,ZNF587 (ZNF587B),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.3,ZNF552,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.4,"ZNF814 (ZNF814B, ZNF814B1, ZNF814B2, ZNF814C)",Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.5,ZNF418 (ZNF418B),Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.6,ZNF211,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.1.7,ZNF256,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF417-like,
+2.3.4.2.1,ZNF219,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF219-like,ENSMUSG00000049295
+2.3.4.2.2,ZNF536,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF219-like,ENSMUSG00000043456
+2.3.4.2.3,ZNF516,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF219-like,ENSMUSG00000058881
+2.3.4.2.4,ZNF217,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF219-like,ENSMUSG00000052056
+2.3.4.3.1,SALL1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,SAL-like,ENSMUSG00000031665
+2.3.4.3.2,SALL2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,SAL-like,ENSMUSG00000049532
+2.3.4.3.3,SALL3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,SAL-like,ENSMUSG00000024565
+2.3.4.3.4,SALL4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,SAL-like,ENSMUSG00000027547
+2.3.4.4.1,IKZF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Ikaros,ENSMUSG00000018654
+2.3.4.4.2,IKZF2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Ikaros,ENSMUSG00000025997
+2.3.4.4.3,IKZF3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Ikaros,ENSMUSG00000018168
+2.3.4.4.4,IKZF4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Ikaros,ENSMUSG00000002578
+2.3.4.4.5,IKZF5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Ikaros,ENSMUSG00000040167
+2.3.4.5.1,HIVEP1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HIV EP,ENSMUSG00000021366
+2.3.4.5.2,HIVEP2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HIV EP,ENSMUSG00000015501
+2.3.4.5.3,HIVEP3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HIV EP,ENSMUSG00000028634
+2.3.4.6.1,ZBTB1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZBTB1-like,ENSMUSG00000033454
+2.3.4.6.2,ZBTB2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZBTB1-like,ENSMUSG00000075327
+2.3.4.6.3,ZBTB25,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZBTB1-like,ENSMUSG00000056459
+2.3.4.7.1,RLF,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,RLF-like,"ENSMUSG00000079019,ENSMUSG00000041354,ENSMUSG00000049878"
+2.3.4.7.2,ZNF292,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,RLF-like,ENSMUSG00000039967
+2.3.4.7.3,ZNF654,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,RLF-like,ENSMUSG00000047141
+2.3.4.8.1,MAZ,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,MAZ-like,ENSMUSG00000030678
+2.3.4.8.2,VEZF1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,MAZ-like,ENSMUSG00000018377
+2.3.4.8.3,PATZ1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,MAZ-like,ENSMUSG00000020453
+2.3.4.9.1,ZNF532,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF532-like,ENSMUSG00000042439
+2.3.4.9.2,ZNF592,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF532-like,ENSMUSG00000005621
+2.3.4.9.3,ZNF687,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF532-like,ENSMUSG00000019338
+2.3.4.10.1,ZNF512,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF512,ENSMUSG00000062761
+2.3.4.10.2,ZNF512B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF512,ENSMUSG00000000823
+2.3.4.11.1,ZNF658,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF658,"ENSMUSG00000100617,ENSMUSG00000069476,ENSMUSG00000060630"
+2.3.4.12.1,ZNF423,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF423-like,ENSMUSG00000045333
+2.3.4.12.2,ZNF521,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF423-like,ENSMUSG00000024420
+2.3.4.13.1,ZNF639,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF639-like,ENSMUSG00000027667
+2.3.4.13.2,ZNF711,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF639-like,ENSMUSG00000025529
+2.3.4.14.1,EVI1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,EVI1-like,ENSMUSG00000027684
+2.3.4.14.2,PRDM16,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,EVI1-like,ENSMUSG00000039410
+2.3.4.15.1,BCL11A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,BCL11,ENSMUSG00000000861
+2.3.4.15.2,BCL11B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,BCL11,ENSMUSG00000048251
+2.3.4.15.3,ZNF296,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,BCL11,ENSMUSG00000011267
+2.3.4.16.1,INSM1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Insulinoma-associated proteins,ENSMUSG00000068154
+2.3.4.16.2,INSM2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Insulinoma-associated proteins,ENSMUSG00000045440
+2.3.4.17.1,HIC1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HIC,ENSMUSG00000043099
+2.3.4.17.2,HIC2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HIC,ENSMUSG00000050240
+2.3.4.18.1,ZNF518A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF518,ENSMUSG00000049164
+2.3.4.18.2,ZNF518B,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF518,ENSMUSG00000046572
+2.3.4.19.1,BNC1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Basonuclin,"ENSMUSG00000020704,ENSMUSG00000025105"
+2.3.4.19.2,BNC2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,Basonuclin,ENSMUSG00000028487
+2.3.4.21.1,HINFP,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HINFP-like,ENSMUSG00000032119
+2.3.4.21.2,ZFAT,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,HINFP-like,ENSMUSG00000022335
+2.3.4.22.1,ZNF526,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF526-like,ENSMUSG00000046541
+2.3.4.22.2,ZNF574,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF526-like,ENSMUSG00000045252
+2.3.4.23.1,ZNF319,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF319-like,ENSMUSG00000046556
+2.3.4.23.2,ZNF786,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF319-like,ENSMUSG00000051499
+2.3.4.24.1,ZNF134,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF134-like,
+2.3.4.24.2,ZNF671,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF134-like,
+2.3.4.24.3,ZNF772,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF134-like,
+2.3.4.24.4,ZNF792,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF134-like,
+2.3.4.25.1,ZNF37A,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,
+2.3.4.25.2,ZNF717,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,"ENSMUSG00000037001,ENSMUSG00000056592"
+2.3.4.25.3,ZNF248,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,ENSMUSG00000030145
+2.3.4.25.4,ZNF334,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,"ENSMUSG00000017667,ENSMUSG00000056824"
+2.3.4.25.5,ZNF382,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,ENSMUSG00000074220
+2.3.4.25.6,ZNF510,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,ZNF37A-like,
+2.3.4.0.1,CASZ1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000028977
+2.3.4.0.2,ZNF335,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000039834
+2.3.4.0.4,WIZ,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000024050
+2.3.4.0.5,ZNF469,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000043903
+2.3.4.0.6,ZFPM1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000049577
+2.3.4.0.7,ZBTB4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000018750
+2.3.4.0.9,ZBTB39,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000044617
+2.3.4.0.10,ZNF295,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000046962
+2.3.4.0.12,PRDM13,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000040478
+2.3.4.0.13,ZNF646,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000049739
+2.3.4.0.14,ZNF579,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000051550
+2.3.4.0.16,PRDM2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000057637
+2.3.4.0.17,ZNF800,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000039841
+2.3.4.0.18,ZNF618,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000028358
+2.3.4.0.21,ZNF451,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000042197
+2.3.4.0.22,ZNF438,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000050945
+2.3.4.0.24,ZNF507,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000044452
+2.3.4.0.25,ZNF236,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000041258
+2.3.4.0.26,ZNF770,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000040321
+2.3.4.0.28,ZFP57,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000036036
+2.3.4.0.30,ZNF597,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000039789
+2.3.4.0.32,PRDM15,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000014039
+2.3.4.0.33,ZBTB41,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000033964
+2.3.4.0.34,PRDM10,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000042496
+2.3.4.0.36,ZNF513,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000043059
+2.3.4.0.37,ZNF142,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000026135
+2.3.4.0.38,FIZ1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000061374
+2.3.4.0.40,ZNF784,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000043290
+2.3.4.0.41,ZNF697,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000050064
+2.3.4.0.42,ZKSCAN5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000055991
+2.3.4.0.44,ZNF775,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000007216
+2.3.4.0.45,ZNF467,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000068551
+2.3.4.0.46,ZNF787,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000046792
+2.3.4.0.48,ZNF48,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000045598
+2.3.4.0.49,ZNF629,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000045639
+2.3.4.0.50,ZNF668,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000049728
+2.3.4.0.51,ZNF101,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.52,ZNF251,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000022526
+2.3.4.0.53,ZNF445,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000047036
+2.3.4.0.56,ZSCAN20,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000061894
+2.3.4.0.57,ZNF674,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.60,ZNF788,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.63,ZNF778,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000063108
+2.3.4.0.68,ZNF519,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000042063
+2.3.4.0.69,ZNF304,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.70,ZNF132,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.72,ZBTB17,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000006215
+2.3.4.0.73,ZNF407,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000048410
+2.3.4.0.74,E4F1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000024137
+2.3.4.0.3,PRDM8,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000035456
+2.3.4.0.8,ZBTB38,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000040433
+2.3.4.0.15,RREB1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000039087
+2.3.4.0.19,ZNF277,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000055917
+2.3.4.0.23,PEG3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000002265
+2.3.4.0.27,REST,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000029249
+2.3.4.0.31,PRDM4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000035529
+2.3.4.0.35,ZNF341,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000059842
+2.3.4.0.39,ZNF628,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000074406
+2.3.4.0.43,ZNF316,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000046658
+2.3.4.0.59,ZNF195,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,
+2.3.4.0.67,ZNF606,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,"ENSMUSG00000099689,ENSMUSG00000030386"
+2.3.4.0.71,PRDM9,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000051977
+2.3.4.0.75,ZNF462,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000060206
+2.3.4.0.76,ZNF644,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,Factors with multiple dispersed zinc fingers,unclassified,ENSMUSG00000049606
+2.3.5.0.1,ZBED1,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,
+2.3.5.0.2,ZBED2,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,
+2.3.5.0.3,ZBED3,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,ENSMUSG00000041995
+2.3.5.0.4,ZBED4,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,ENSMUSG00000034333
+2.3.5.0.5,ZBED5,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,ENSMUSG00000034173
+2.3.5.0.6,ZBED6,Zinc-coordinating DNA-binding domains,C2H2 zinc finger factors,BED zinc finger factors,,ENSMUSG00000102049
+2.5.1.0.1,DMRT1,Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000024837
+2.5.1.0.2,DMRT2,Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000048138
+2.5.1.0.3,"DMRT3 (DMRT3a, DMRT3b)",Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000042372
+2.5.1.0.4,DMRTA1,Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000043753
+2.5.1.0.5,DMRTA2,Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000047143
+2.5.1.0.6,DMRTB1,Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000028610
+2.5.1.0.7,"DMRTC2 (dmrtc2b1, dmrtc2b2)",Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000011349
+2.5.1.0.8,"DMRTC1 (dmrtc1a, dmrtc1b, dmrtc1b1, dmrtc1b2, dmrtc1b3, dmrtc1b4, dmrtc1b5, dmrtc1c)",Zinc-coordinating DNA-binding domains,DM-type intertwined zinc finger factors,DMRT,,ENSMUSG00000031323
+2.6.1.0.1,CXXC1,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000024560
+2.6.1.0.2,MBD1,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,"ENSMUSG00000019278,ENSMUSG00000024561"
+2.6.1.0.3,TET1,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000047146
+2.6.1.0.4,MLL,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000002028
+2.6.1.0.5,KDM2A,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000054611
+2.6.1.0.6,DNMT1,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000004099
+2.6.1.0.7,KMT2B,Zinc-coordinating DNA-binding domains,CXXC zinc finger factors,CpG-binding proteins,,ENSMUSG00000006307
+2.7.1.0.1,MYT1,Zinc-coordinating DNA-binding domains,C2HC,MYT,,"ENSMUSG00000010505,ENSMUSG00000023908"
+2.7.1.0.2,MYT1L,Zinc-coordinating DNA-binding domains,C2HC,MYT,,ENSMUSG00000061911
+2.7.1.0.3,ST18,Zinc-coordinating DNA-binding domains,C2HC,MYT,,ENSMUSG00000033740
+2.7.2.0.1,FOG1,Zinc-coordinating DNA-binding domains,C2HC,FOG,,ENSMUSG00000049577
+2.7.2.0.2,FOG2,Zinc-coordinating DNA-binding domains,C2HC,FOG,,ENSMUSG00000022306
+2.7.3.0.1,MYST1,Zinc-coordinating DNA-binding domains,C2HC,MYST,,ENSMUSG00000030801
+2.7.3.0.2,MYST2,Zinc-coordinating DNA-binding domains,C2HC,MYST,,ENSMUSG00000038909
+2.7.3.0.3,MYST3,Zinc-coordinating DNA-binding domains,C2HC,MYST,,ENSMUSG00000031540
+2.7.3.0.4,MYST4,Zinc-coordinating DNA-binding domains,C2HC,MYST,,ENSMUSG00000021767
+2.7.3.0.5,KAT5,Zinc-coordinating DNA-binding domains,C2HC,MYST,,ENSMUSG00000024926
+2.7.4.0.1,L3MBTL1,Zinc-coordinating DNA-binding domains,C2HC,L3MBTL1,,ENSMUSG00000035576
+2.7.5.0.1,LYAR,Zinc-coordinating DNA-binding domains,C2HC,LYAR,,ENSMUSG00000067367
+2.8.1.0.1,ZC3H8,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,ZC3H8,,"ENSMUSG00000042851,ENSMUSG00000027387"
+2.8.1.0.2,ZC3H4,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,ZC3H8,,ENSMUSG00000059273
+2.8.1.0.3,ZC3H6,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,ZC3H8,,ENSMUSG00000042851
+2.8.2.0.1,ZGPAT,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,ZGPAT,,ENSMUSG00000027582
+2.8.3.0.1,RC3H2,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,RC3H,,ENSMUSG00000075376
+2.8.4.0.1,CNOT4,Zinc-coordinating DNA-binding domains,C3H zinc finger factors,CNOT4,,ENSMUSG00000038784
+2.9.1.0.1,THAP1,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000037214
+2.9.1.0.2,THAP2,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000020137
+2.9.1.0.3,THAP3,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000039759
+2.9.1.0.4,THAP4,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000026279
+2.9.1.0.5,THAP5,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,
+2.9.1.0.6,THAP6,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000102644
+2.9.1.0.7,THAP7,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000022760
+2.9.1.0.8,THAP8,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,"ENSMUSG00000022760,ENSMUSG00000013928"
+2.9.1.0.9,THAP9,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,
+2.9.1.0.10,THAP10,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,
+2.9.1.0.11,THAP11,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000036442
+2.9.1.0.12,PRKRIR,Zinc-coordinating DNA-binding domains,C2CH THAP-type zinc finger factors,THAP,,ENSMUSG00000030753
+3.1.1.1.1,HOXA1,Helix-turn-helix domains,Homeo domain factors,HOX,HOX1,ENSMUSG00000029844
+3.1.1.1.2,HOXB1,Helix-turn-helix domains,Homeo domain factors,HOX,HOX1,ENSMUSG00000018973
+3.1.1.1.3,HOXD1,Helix-turn-helix domains,Homeo domain factors,HOX,HOX1,ENSMUSG00000042448
+3.1.1.2.1,HOXA2,Helix-turn-helix domains,Homeo domain factors,HOX,HOX2,ENSMUSG00000014704
+3.1.1.2.2,HOXB2,Helix-turn-helix domains,Homeo domain factors,HOX,HOX2,ENSMUSG00000075588
+3.1.1.3.1,HOXA3,Helix-turn-helix domains,Homeo domain factors,HOX,HOX3,ENSMUSG00000079560
+3.1.1.3.2,HOXB3,Helix-turn-helix domains,Homeo domain factors,HOX,HOX3,ENSMUSG00000048763
+3.1.1.3.3,HOXD3,Helix-turn-helix domains,Homeo domain factors,HOX,HOX3,ENSMUSG00000079277
+3.1.1.4.1,HOXA4,Helix-turn-helix domains,Homeo domain factors,HOX,HOX4,ENSMUSG00000000942
+3.1.1.4.2,HOXB4,Helix-turn-helix domains,Homeo domain factors,HOX,HOX4,ENSMUSG00000038692
+3.1.1.4.3,HOXC4,Helix-turn-helix domains,Homeo domain factors,HOX,HOX4,ENSMUSG00000075394
+3.1.1.4.4,HOXD4,Helix-turn-helix domains,Homeo domain factors,HOX,HOX4,ENSMUSG00000101174
+3.1.1.5.1,HOXA5,Helix-turn-helix domains,Homeo domain factors,HOX,HOX5,ENSMUSG00000038253
+3.1.1.5.2,HOXB5,Helix-turn-helix domains,Homeo domain factors,HOX,HOX5,ENSMUSG00000038700
+3.1.1.5.3,HOXC5,Helix-turn-helix domains,Homeo domain factors,HOX,HOX5,ENSMUSG00000022485
+3.1.1.6.1,HOXA6,Helix-turn-helix domains,Homeo domain factors,HOX,HOX6-7,ENSMUSG00000043219
+3.1.1.6.2,HOXB6,Helix-turn-helix domains,Homeo domain factors,HOX,HOX6-7,ENSMUSG00000000690
+3.1.1.6.3,HOXC6,Helix-turn-helix domains,Homeo domain factors,HOX,HOX6-7,ENSMUSG00000001661
+3.1.1.6.4,HOXA7,Helix-turn-helix domains,Homeo domain factors,HOX,HOX6-7,ENSMUSG00000038236
+3.1.1.6.5,HOXB7,Helix-turn-helix domains,Homeo domain factors,HOX,HOX6-7,ENSMUSG00000038721
+3.1.1.7.1,HOXB8,Helix-turn-helix domains,Homeo domain factors,HOX,HOX8,ENSMUSG00000056648
+3.1.1.7.2,HOXC8,Helix-turn-helix domains,Homeo domain factors,HOX,HOX8,"ENSMUSG00000001657,ENSMUSG00000036139"
+3.1.1.7.3,HOXD8,Helix-turn-helix domains,Homeo domain factors,HOX,HOX8,ENSMUSG00000027102
+3.1.1.8.1,HOXA9,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,"ENSMUSG00000038236,ENSMUSG00000038227"
+3.1.1.8.2,HOXB9,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000020875
+3.1.1.8.3,HOXC9,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000036139
+3.1.1.8.4,HOXD9,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000043342
+3.1.1.8.5,HOXA10,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,"ENSMUSG00000000938,ENSMUSG00000038210"
+3.1.1.8.7,HOXC10,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,"ENSMUSG00000022484,ENSMUSG00000001656"
+3.1.1.8.8,HOXD10,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000050368
+3.1.1.8.9,HOXA11,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,"ENSMUSG00000000938,ENSMUSG00000038210"
+3.1.1.8.10,HOXC11,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000001656
+3.1.1.8.11,HOXD11,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000042499
+3.1.1.8.12,HOXC12,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000050328
+3.1.1.8.13,HOXD12,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000001823
+3.1.1.8.14,HOXA13,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000038203
+3.1.1.8.15,HOXB13,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000049604
+3.1.1.8.16,HOXC13,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000001655
+3.1.1.8.17,HOXD13,Helix-turn-helix domains,Homeo domain factors,HOX,HOX9-13,ENSMUSG00000001819
+3.1.1.9.1,CDX1,Helix-turn-helix domains,Homeo domain factors,HOX,CDX,ENSMUSG00000024619
+3.1.1.9.2,CDX2,Helix-turn-helix domains,Homeo domain factors,HOX,CDX,ENSMUSG00000029646
+3.1.1.9.3,CDX4,Helix-turn-helix domains,Homeo domain factors,HOX,CDX,ENSMUSG00000031326
+3.1.1.10.1,EVX1,Helix-turn-helix domains,Homeo domain factors,HOX,EVX,ENSMUSG00000005503
+3.1.1.10.2,EVX2,Helix-turn-helix domains,Homeo domain factors,HOX,EVX,ENSMUSG00000001815
+3.1.1.11.1,GBX1 (GBX),Helix-turn-helix domains,Homeo domain factors,HOX,GBX,ENSMUSG00000067724
+3.1.1.11.2,GBX2,Helix-turn-helix domains,Homeo domain factors,HOX,GBX,ENSMUSG00000034486
+3.1.1.12.1,GSX1,Helix-turn-helix domains,Homeo domain factors,HOX,GSX,ENSMUSG00000053129
+3.1.1.12.2,GSX2,Helix-turn-helix domains,Homeo domain factors,HOX,GSX,ENSMUSG00000035946
+3.1.1.13.1,MNX1,Helix-turn-helix domains,Homeo domain factors,HOX,MNX,ENSMUSG00000001566
+3.1.1.14.1,MEOX1,Helix-turn-helix domains,Homeo domain factors,HOX,MEOX,ENSMUSG00000001493
+3.1.1.14.2,MEOX2,Helix-turn-helix domains,Homeo domain factors,HOX,MEOX,ENSMUSG00000036144
+3.1.1.15.1,PDX1,Helix-turn-helix domains,Homeo domain factors,HOX,PDX,"ENSMUSG00000010914,ENSMUSG00000029644"
+3.1.2.1.1,BARHL1,Helix-turn-helix domains,Homeo domain factors,NK,BARHL,ENSMUSG00000026805
+3.1.2.1.2,BARHL2,Helix-turn-helix domains,Homeo domain factors,NK,BARHL,"ENSMUSG00000026805,ENSMUSG00000034384"
+3.1.2.2.1,BARX1,Helix-turn-helix domains,Homeo domain factors,NK,BARX,ENSMUSG00000021381
+3.1.2.2.2,BARX2,Helix-turn-helix domains,Homeo domain factors,NK,BARX,ENSMUSG00000032033
+3.1.2.3.1,BSX1,Helix-turn-helix domains,Homeo domain factors,NK,BSX,ENSMUSG00000054360
+3.1.2.4.1,DBX1,Helix-turn-helix domains,Homeo domain factors,NK,DBX,ENSMUSG00000030507
+3.1.2.4.2,DBX2,Helix-turn-helix domains,Homeo domain factors,NK,DBX,ENSMUSG00000045608
+3.1.2.5.1,DLX1,Helix-turn-helix domains,Homeo domain factors,NK,DLX,ENSMUSG00000041911
+3.1.2.5.2,DLX2,Helix-turn-helix domains,Homeo domain factors,NK,DLX,ENSMUSG00000023391
+3.1.2.5.3,DLX3,Helix-turn-helix domains,Homeo domain factors,NK,DLX,ENSMUSG00000001510
+3.1.2.5.4,DLX4,Helix-turn-helix domains,Homeo domain factors,NK,DLX,"ENSMUSG00000020871,ENSMUSG00000029754"
+3.1.2.5.5,DLX5,Helix-turn-helix domains,Homeo domain factors,NK,DLX,"ENSMUSG00000023391,ENSMUSG00000029755"
+3.1.2.5.6,DLX6,Helix-turn-helix domains,Homeo domain factors,NK,DLX,ENSMUSG00000029754
+3.1.2.6.1,EMX1,Helix-turn-helix domains,Homeo domain factors,NK,EMX,ENSMUSG00000033726
+3.1.2.6.2,EMX2,Helix-turn-helix domains,Homeo domain factors,NK,EMX,ENSMUSG00000043969
+3.1.2.7.1,EN1,Helix-turn-helix domains,Homeo domain factors,NK,EN,ENSMUSG00000058665
+3.1.2.7.2,EN2,Helix-turn-helix domains,Homeo domain factors,NK,EN,ENSMUSG00000039095
+3.1.2.8.1,HHEX,Helix-turn-helix domains,Homeo domain factors,NK,HHEX,ENSMUSG00000024986
+3.1.2.9.1,HLX1,Helix-turn-helix domains,Homeo domain factors,NK,HLX,ENSMUSG00000039377
+3.1.2.10.1,LBX1,Helix-turn-helix domains,Homeo domain factors,NK,LBX,ENSMUSG00000025216
+3.1.2.10.2,LBX2,Helix-turn-helix domains,Homeo domain factors,NK,LBX,ENSMUSG00000034968
+3.1.2.11.1,MSX1,Helix-turn-helix domains,Homeo domain factors,NK,MSX,ENSMUSG00000048450
+3.1.2.11.2,MSX2,Helix-turn-helix domains,Homeo domain factors,NK,MSX,ENSMUSG00000021469
+3.1.2.11.3,MSX3,Helix-turn-helix domains,Homeo domain factors,NK,MSX,ENSMUSG00000048450
+3.1.2.12.1,NANOG,Helix-turn-helix domains,Homeo domain factors,NK,NANOG,ENSMUSG00000012396
+3.1.2.13.1,NKX1-1,Helix-turn-helix domains,Homeo domain factors,NK,NK1,ENSMUSG00000029112
+3.1.2.13.2,NKX1-2,Helix-turn-helix domains,Homeo domain factors,NK,NK1,ENSMUSG00000048528
+3.1.2.14.1,NKX2-1,Helix-turn-helix domains,Homeo domain factors,NK,NK2.1,ENSMUSG00000001496
+3.1.2.14.2,NKX2-4,Helix-turn-helix domains,Homeo domain factors,NK,NK2.1,ENSMUSG00000054160
+3.1.2.15.1,NKX2-2,Helix-turn-helix domains,Homeo domain factors,NK,NK2.2,ENSMUSG00000027434
+3.1.2.15.2,NKX2-8,Helix-turn-helix domains,Homeo domain factors,NK,NK2.2,ENSMUSG00000058669
+3.1.2.16.1,NKX3-1,Helix-turn-helix domains,Homeo domain factors,NK,NK3,ENSMUSG00000022061
+3.1.2.16.2,NKX3-2,Helix-turn-helix domains,Homeo domain factors,NK,NK3,ENSMUSG00000049691
+3.1.2.17.1,NKX2-3,Helix-turn-helix domains,Homeo domain factors,NK,NK4,ENSMUSG00000044220
+3.1.2.17.2,NKX2-5,Helix-turn-helix domains,Homeo domain factors,NK,NK4,ENSMUSG00000015579
+3.1.2.17.3,NKX2-6,Helix-turn-helix domains,Homeo domain factors,NK,NK4,ENSMUSG00000044186
+3.1.2.18.1,HMX1,Helix-turn-helix domains,Homeo domain factors,NK,NK5-HMX,ENSMUSG00000067438
+3.1.2.18.2,HMX2,Helix-turn-helix domains,Homeo domain factors,NK,NK5-HMX,ENSMUSG00000050100
+3.1.2.18.3,HMX3,Helix-turn-helix domains,Homeo domain factors,NK,NK5-HMX,ENSMUSG00000040148
+3.1.2.19.1,"NKX6-1 (NKX6-1-1, NKX6-1-2)",Helix-turn-helix domains,Homeo domain factors,NK,NK6,ENSMUSG00000035187
+3.1.2.19.2,NKX6-2,Helix-turn-helix domains,Homeo domain factors,NK,NK6,ENSMUSG00000041309
+3.1.2.19.3,NKX6-3,Helix-turn-helix domains,Homeo domain factors,NK,NK6,ENSMUSG00000063672
+3.1.2.20.1,NOTO,Helix-turn-helix domains,Homeo domain factors,NK,NOTO,ENSMUSG00000068302
+3.1.2.21.1,TLX1,Helix-turn-helix domains,Homeo domain factors,NK,TLX,ENSMUSG00000025215
+3.1.2.21.2,TLX2,Helix-turn-helix domains,Homeo domain factors,NK,TLX,ENSMUSG00000068327
+3.1.2.21.3,TLX3,Helix-turn-helix domains,Homeo domain factors,NK,TLX,ENSMUSG00000040610
+3.1.2.22.1,VAX1,Helix-turn-helix domains,Homeo domain factors,NK,VAX,ENSMUSG00000006270
+3.1.2.22.2,VAX2,Helix-turn-helix domains,Homeo domain factors,NK,VAX,ENSMUSG00000034777
+3.1.2.23.1,VENTX,Helix-turn-helix domains,Homeo domain factors,NK,VENTX,
+3.1.3.1.1,ALX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ALX,ENSMUSG00000036602
+3.1.3.1.2,ALX3,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ALX,ENSMUSG00000014603
+3.1.3.1.3,ALX4,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ALX,ENSMUSG00000040310
+3.1.3.2.1,ARGFX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ARGFX,
+3.1.3.3.1,ARX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ARX,"ENSMUSG00000035277,ENSMUSG00000052997"
+3.1.3.4.1,DMBX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DMBX,ENSMUSG00000028707
+3.1.3.5.1,DPRX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DPRX,
+3.1.3.6.1,DRGX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DRGX,ENSMUSG00000041730
+3.1.3.7.1,DUXA,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DUX,
+3.1.3.7.5,DUX4,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DUX,
+3.1.3.7.9,DUX4L4,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,DUX,
+3.1.3.8.1,ESX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ESX,ENSMUSG00000023443
+3.1.3.9.1,GSC,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,GSC,ENSMUSG00000021095
+3.1.3.9.2,GSC2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,GSC,ENSMUSG00000022738
+3.1.3.10.1,HESX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,HESX,ENSMUSG00000040726
+3.1.3.11.1,HOPX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,HOPX,ENSMUSG00000059325
+3.1.3.12.1,ISX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,ISX,ENSMUSG00000031621
+3.1.3.13.1,LEUTX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,LEUTX,ENSMUSG00000030507
+3.1.3.14.1,MIXL1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,MIX,ENSMUSG00000026497
+3.1.3.15.1,NOBOX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,NOBOX,ENSMUSG00000029736
+3.1.3.16.1,OTP,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,OTP,ENSMUSG00000021685
+3.1.3.17.1,OTX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,OTX,ENSMUSG00000005917
+3.1.3.17.2,OTX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,OTX,ENSMUSG00000021848
+3.1.3.17.3,CRX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,OTX,ENSMUSG00000041578
+3.1.3.18.1,PHOX2A,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PHOX,ENSMUSG00000007946
+3.1.3.18.2,PHOX2B,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PHOX,ENSMUSG00000012520
+3.1.3.19.1,PITX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PITX,ENSMUSG00000021506
+3.1.3.19.2,PITX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PITX,ENSMUSG00000028023
+3.1.3.19.3,PITX3,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PITX,ENSMUSG00000025229
+3.1.3.20.1,PROP1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PROP,ENSMUSG00000044542
+3.1.3.21.1,"PRRX1 (PRRX1a, PRRX1b)",Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PRRX,ENSMUSG00000026586
+3.1.3.21.2,PRRX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,PRRX,ENSMUSG00000039476
+3.1.3.22.1,RAX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,RAX,"ENSMUSG00000002731,ENSMUSG00000024518"
+3.1.3.22.2,RAX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,RAX,
+3.1.3.23.1,RHOXF1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,RHOX,
+3.1.3.23.2,RHOXF2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,RHOX,
+3.1.3.24.1,SEBOX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,SEBOX,ENSMUSG00000001103
+3.1.3.25.1,SHOX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,SHOX,
+3.1.3.25.2,SHOX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,SHOX,ENSMUSG00000027833
+3.1.3.26.1,TPRX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,TPRX,
+3.1.3.26.2,TPRXL,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,TPRX,ENSMUSG00000014603
+3.1.3.27.1,UNCX,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,UNCX,ENSMUSG00000029546
+3.1.3.28.1,VSX1,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,VSX,ENSMUSG00000033080
+3.1.3.28.2,VSX2,Helix-turn-helix domains,Homeo domain factors,Paired-related HD,VSX,ENSMUSG00000021239
+3.1.4.1.1,IRX1,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,ENSMUSG00000060969
+3.1.4.1.2,IRX2,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,ENSMUSG00000001504
+3.1.4.1.3,IRX3,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,ENSMUSG00000031734
+3.1.4.1.4,IRX4,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,ENSMUSG00000021604
+3.1.4.1.5,IRX5,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,ENSMUSG00000031737
+3.1.4.1.6,IRX6,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,IRX,"ENSMUSG00000001504,ENSMUSG00000031738"
+3.1.4.2.1,MEIS1,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,MEIS,ENSMUSG00000020160
+3.1.4.2.2,MEIS2,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,MEIS,ENSMUSG00000027210
+3.1.4.2.3,MEIS3,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,MEIS,ENSMUSG00000041420
+3.1.4.3.1,MKX,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,MKX,ENSMUSG00000061013
+3.1.4.4.1,PKNOX1,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PBX,ENSMUSG00000006705
+3.1.4.4.2,PKNOX2,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PBX,ENSMUSG00000035934
+3.1.4.5.1,TGIF1,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PKNOX,ENSMUSG00000047407
+3.1.4.5.2,TGIF2,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PKNOX,ENSMUSG00000062175
+3.1.4.5.3,TGIF2LX,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PKNOX,"ENSMUSG00000100133,ENSMUSG00000100194"
+3.1.4.5.4,TGIF2LY,Helix-turn-helix domains,Homeo domain factors,TALE-type HD,PKNOX,
+3.1.5.1.1,ISL1,Helix-turn-helix domains,Homeo domain factors,HD-LIM,ISL,ENSMUSG00000042258
+3.1.5.1.2,ISL2,Helix-turn-helix domains,Homeo domain factors,HD-LIM,ISL,ENSMUSG00000032318
+3.1.5.2.1,LHX1,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX1-like,ENSMUSG00000018698
+3.1.5.2.2,LHX5,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX1-like,ENSMUSG00000029595
+3.1.5.3.1,LHX2,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX2-like,ENSMUSG00000000247
+3.1.5.3.2,LHX9,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX2-like,ENSMUSG00000019230
+3.1.5.4.1,LHX3,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX3-like,ENSMUSG00000026934
+3.1.5.4.2,LHX4,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX3-like,ENSMUSG00000026468
+3.1.5.5.1,LHX6,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX6-like,ENSMUSG00000026890
+3.1.5.5.2,LHX8,Helix-turn-helix domains,Homeo domain factors,HD-LIM,LHX6-like,ENSMUSG00000096225
+3.1.5.6.1,LMX1A (LMX1alpha),Helix-turn-helix domains,Homeo domain factors,HD-LIM,LMX,ENSMUSG00000026686
+3.1.5.6.2,LMX1B (LMX1beta),Helix-turn-helix domains,Homeo domain factors,HD-LIM,LMX,ENSMUSG00000038765
+3.1.6.1.1,SIX1,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX1-like,ENSMUSG00000051367
+3.1.6.1.2,SIX2,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX1-like,ENSMUSG00000024134
+3.1.6.2.1,SIX3,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX3-like,ENSMUSG00000038805
+3.1.6.2.2,SIX6,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX3-like,ENSMUSG00000021099
+3.1.6.3.1,SIX4,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX4-like,ENSMUSG00000034460
+3.1.6.3.2,SIX5,Helix-turn-helix domains,Homeo domain factors,HD-SINE,SIX4-like,"ENSMUSG00000034460,ENSMUSG00000040841"
+3.1.7.0.1,PROX1,Helix-turn-helix domains,Homeo domain factors,HD-PROS,,"ENSMUSG00000020289,ENSMUSG00000010175"
+3.1.7.0.2,PROX2,Helix-turn-helix domains,Homeo domain factors,HD-PROS,,ENSMUSG00000042320
+3.1.8.1.1,ADNP1,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ADNP,ENSMUSG00000051149
+3.1.8.1.2,ADNP2,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ADNP,ENSMUSG00000053950
+3.1.8.2.1,TSHZ1,Helix-turn-helix domains,Homeo domain factors,HD-ZF,TSHZ,ENSMUSG00000046982
+3.1.8.2.2,TSHZ2,Helix-turn-helix domains,Homeo domain factors,HD-ZF,TSHZ,ENSMUSG00000047907
+3.1.8.2.3,TSHZ3,Helix-turn-helix domains,Homeo domain factors,HD-ZF,TSHZ,ENSMUSG00000021217
+3.1.8.3.1,ZEB1,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZEB,ENSMUSG00000024238
+3.1.8.3.2,ZEB2,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZEB,ENSMUSG00000026872
+3.1.8.4.1,ZFHX2,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZFHX,ENSMUSG00000040721
+3.1.8.4.2,ZFHX3,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZFHX,ENSMUSG00000038872
+3.1.8.4.3,ZFHX4,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZFHX,ENSMUSG00000025255
+3.1.8.5.1,ZHX1,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZHX,ENSMUSG00000022361
+3.1.8.5.2,ZHX2,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZHX,ENSMUSG00000071757
+3.1.8.5.3,ZHX3,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZHX,ENSMUSG00000035877
+3.1.8.5.4,HOMEZ,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZHX,ENSMUSG00000057156
+3.1.8.5.5,NANOGNB,Helix-turn-helix domains,Homeo domain factors,HD-ZF,ZHX,
+3.1.9.1.1,ONECUT1,Helix-turn-helix domains,Homeo domain factors,HD-CUT,ONECUT,ENSMUSG00000043013
+3.1.9.1.2,ONECUT2,Helix-turn-helix domains,Homeo domain factors,HD-CUT,ONECUT,ENSMUSG00000045991
+3.1.9.1.3,ONECUT3,Helix-turn-helix domains,Homeo domain factors,HD-CUT,ONECUT,ENSMUSG00000045518
+3.1.9.2.1,CUX1,Helix-turn-helix domains,Homeo domain factors,HD-CUT,CUX,ENSMUSG00000029705
+3.1.9.2.2,CUX2,Helix-turn-helix domains,Homeo domain factors,HD-CUT,CUX,ENSMUSG00000042589
+3.1.9.3.1,SATB1,Helix-turn-helix domains,Homeo domain factors,HD-CUT,SATB,ENSMUSG00000023927
+3.1.9.3.2,SATB2,Helix-turn-helix domains,Homeo domain factors,HD-CUT,SATB,ENSMUSG00000038331
+3.1.10.1.1,POU1F1 (Pit-1),Helix-turn-helix domains,Homeo domain factors,POU,POU1,ENSMUSG00000004842
+3.1.10.2.1,POU2F1 (Oct-1),Helix-turn-helix domains,Homeo domain factors,POU,POU2,ENSMUSG00000026565
+3.1.10.2.2,POU2F2 (Oct-2),Helix-turn-helix domains,Homeo domain factors,POU,POU2,ENSMUSG00000008496
+3.1.10.2.3,POU2F3 (Oct-11),Helix-turn-helix domains,Homeo domain factors,POU,POU2,ENSMUSG00000032015
+3.1.10.3.1,POU3F1 (Oct-6),Helix-turn-helix domains,Homeo domain factors,POU,POU3,ENSMUSG00000090125
+3.1.10.3.2,"POU3F2 (Oct-7, Brn-2)",Helix-turn-helix domains,Homeo domain factors,POU,POU3,ENSMUSG00000095139
+3.1.10.3.3,"POU3F3 (Oct-8, Brn-1)",Helix-turn-helix domains,Homeo domain factors,POU,POU3,ENSMUSG00000045515
+3.1.10.3.4,"POU3F4 (Oct-9, Brn-4)",Helix-turn-helix domains,Homeo domain factors,POU,POU3,ENSMUSG00000056854
+3.1.10.4.1,"POU4F1 (Brn-3A, OCT-T1)",Helix-turn-helix domains,Homeo domain factors,POU,POU4,ENSMUSG00000048349
+3.1.10.4.2,POU4F2 (Brn-3B),Helix-turn-helix domains,Homeo domain factors,POU,POU4,ENSMUSG00000031688
+3.1.10.4.3,POU4F3 (Brn-3C),Helix-turn-helix domains,Homeo domain factors,POU,POU4,ENSMUSG00000024497
+3.1.10.5.2,POU5F1 (Oct-3),Helix-turn-helix domains,Homeo domain factors,POU,POU5,ENSMUSG00000024406
+3.1.10.5.4,POU5F2,Helix-turn-helix domains,Homeo domain factors,POU,POU5,ENSMUSG00000093668
+3.1.10.6.1,POU6F1 (Brn-5),Helix-turn-helix domains,Homeo domain factors,POU,POU6,ENSMUSG00000009739
+3.1.10.6.2,POU6F2 (Rpf-1),Helix-turn-helix domains,Homeo domain factors,POU,POU6,ENSMUSG00000009734
+3.1.10.7.1,HNF1A,Helix-turn-helix domains,Homeo domain factors,POU,HNF1-like,ENSMUSG00000029556
+3.1.10.7.2,HNF1B,Helix-turn-helix domains,Homeo domain factors,POU,HNF1-like,ENSMUSG00000020679
+3.1.10.7.3,HMBOX1,Helix-turn-helix domains,Homeo domain factors,POU,HNF1-like,ENSMUSG00000021972
+3.1.10.8.1,HDX,Helix-turn-helix domains,Homeo domain factors,POU,HDX,ENSMUSG00000034551
+3.1.11.0.1,PHTF1,Helix-turn-helix domains,Homeo domain factors,PHTF,,ENSMUSG00000058388
+3.1.11.0.2,PHTF2,Helix-turn-helix domains,Homeo domain factors,PHTF,,ENSMUSG00000039987
+3.2.1.1.1,PAX3,Helix-turn-helix domains,Paired box factors,PD+HD,PAX3-like,ENSMUSG00000004872
+3.2.1.1.2,PAX7,Helix-turn-helix domains,Paired box factors,PD+HD,PAX3-like,ENSMUSG00000028736
+3.2.1.2.1,PAX4,Helix-turn-helix domains,Paired box factors,PD+HD,PAX4-like,ENSMUSG00000029706
+3.2.1.2.2,PAX6,Helix-turn-helix domains,Paired box factors,PD+HD,PAX4-like,ENSMUSG00000027168
+3.2.2.1.1,PAX1,Helix-turn-helix domains,Paired box factors,PD,PAX1-like,ENSMUSG00000037034
+3.2.2.1.2,PAX9,Helix-turn-helix domains,Paired box factors,PD,PAX1-like,ENSMUSG00000001497
+3.2.2.2.1,PAX2,Helix-turn-helix domains,Paired box factors,PD,PAX2-like,ENSMUSG00000004231
+3.2.2.2.2,PAX5,Helix-turn-helix domains,Paired box factors,PD,PAX2-like,ENSMUSG00000014030
+3.2.2.2.3,PAX8,Helix-turn-helix domains,Paired box factors,PD,PAX2-like,ENSMUSG00000026976
+3.3.1.1.1,FOXA1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXA,ENSMUSG00000035451
+3.3.1.1.2,FOXA2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXA,ENSMUSG00000037025
+3.3.1.1.3,FOXA3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXA,ENSMUSG00000040891
+3.3.1.2.1,FOXB1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXB,ENSMUSG00000059246
+3.3.1.2.2,FOXB2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXB,ENSMUSG00000056829
+3.3.1.3.1,FOXC1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXC,ENSMUSG00000050295
+3.3.1.3.2,FOXC2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXC,ENSMUSG00000046714
+3.3.1.4.1,FOXD1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,ENSMUSG00000078302
+3.3.1.4.2,FOXD2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,ENSMUSG00000055210
+3.3.1.4.3,FOXD3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,ENSMUSG00000067261
+3.3.1.4.4,"FOXD4 (FOXD4a, FOXD4b)",Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,ENSMUSG00000051490
+3.3.1.4.5,FOXD4L1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,
+3.3.1.4.7,FOXD4L3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,
+3.3.1.4.8,FOXD4L4,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,
+3.3.1.4.9,FOXD4L5,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,
+3.3.1.4.10,FOXD4L6,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXD,
+3.3.1.5.1,FOXE1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXE,ENSMUSG00000070990
+3.3.1.5.2,FOXE3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXE,ENSMUSG00000044518
+3.3.1.6.1,FOXF1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXF,"ENSMUSG00000042812,ENSMUSG00000048377"
+3.3.1.6.2,FOXF2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXF,ENSMUSG00000038402
+3.3.1.7.1,FOXG1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXG,ENSMUSG00000020950
+3.3.1.8.1,FOXH1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXH,ENSMUSG00000033837
+3.3.1.9.1,FOXI1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXI,ENSMUSG00000047861
+3.3.1.9.2,FOXI2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXI,ENSMUSG00000048377
+3.3.1.9.3,FOXI3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXI,ENSMUSG00000055874
+3.3.1.10.1,FOXJ1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXJ,ENSMUSG00000034227
+3.3.1.10.2,FOXJ2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXJ,ENSMUSG00000003154
+3.3.1.10.3,FOXJ3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXJ,"ENSMUSG00000003154,ENSMUSG00000032998"
+3.3.1.11.1,FOXK1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXK,ENSMUSG00000056493
+3.3.1.11.2,FOXK2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXK,ENSMUSG00000039275
+3.3.1.12.1,FOXL1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXL,ENSMUSG00000097084
+3.3.1.12.2,FOXL2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXL,ENSMUSG00000050397
+3.3.1.13.1,FOXM1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXM,ENSMUSG00000001517
+3.3.1.14.1,FOXN1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXN,ENSMUSG00000002057
+3.3.1.14.2,FOXN2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXN,ENSMUSG00000034998
+3.3.1.14.3,FOXN3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXN,ENSMUSG00000033713
+3.3.1.14.4,FOXN4,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXN,ENSMUSG00000042002
+3.3.1.15.1,FOXO1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXO,ENSMUSG00000044167
+3.3.1.15.2,FOXO3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXO,ENSMUSG00000048756
+3.3.1.15.3,FOXO4,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXO,ENSMUSG00000042903
+3.3.1.15.5,FOXO6,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXO,ENSMUSG00000052135
+3.3.1.16.1,FOXP1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXP,ENSMUSG00000030067
+3.3.1.16.2,FOXP2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXP,ENSMUSG00000029563
+3.3.1.16.3,FOXP3,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXP,ENSMUSG00000039521
+3.3.1.16.4,FOXP4,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXP,ENSMUSG00000023991
+3.3.1.17.1,FOXQ1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXQ,ENSMUSG00000038415
+3.3.1.18.1,FOXR1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXR,ENSMUSG00000074397
+3.3.1.18.2,FOXR2,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXR,ENSMUSG00000071665
+3.3.1.19.1,FOXS1,Helix-turn-helix domains,Fork head / winged helix factors,FOX,FOXS,ENSMUSG00000074676
+3.3.2.1.1,E2F1,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000027490
+3.3.2.1.2,E2F2,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,"ENSMUSG00000018983,ENSMUSG00000032591"
+3.3.2.1.3,E2F3,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000016477
+3.3.2.1.4,E2F4,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000014859
+3.3.2.1.5,E2F5,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000027552
+3.3.2.1.6,E2F6,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000057469
+3.3.2.1.7,E2F7,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000020185
+3.3.2.1.8,E2F8,Helix-turn-helix domains,Fork head / winged helix factors,E2F,E2F,ENSMUSG00000046179
+3.3.2.2.1,DP1,Helix-turn-helix domains,Fork head / winged helix factors,E2F,DP1,ENSMUSG00000038482
+3.3.2.2.2,DP2 (DP3),Helix-turn-helix domains,Fork head / winged helix factors,E2F,DP1,ENSMUSG00000032411
+3.3.3.0.1,RFX1,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000031706
+3.3.3.0.2,RFX2,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000024206
+3.3.3.0.3,RFX3,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000040929
+3.3.3.0.4,RFX4,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000020037
+3.3.3.0.5,RFX5,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000005774
+3.3.3.0.6,RFX6,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000019900
+3.3.3.0.7,RFX7,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000037674
+3.3.3.0.8,RFX8,Helix-turn-helix domains,Fork head / winged helix factors,RFX,,ENSMUSG00000057173
+3.4.1.0.1,HSF1,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000022556
+3.4.1.0.2,HSF2,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000019878
+3.4.1.0.3,HSF3,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000022556
+3.4.1.0.4,HSF4,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000033249
+3.4.1.0.5,HSF5,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000070345
+3.4.1.0.6,HSFX1,Helix-turn-helix domains,Heat shock factors,HSF,,
+3.4.1.0.8,HSFY1,Helix-turn-helix domains,Heat shock factors,HSF,,ENSMUSG00000045336
+3.4.1.0.10,HSFX3,Helix-turn-helix domains,Heat shock factors,HSF,,
+3.5.1.1.1,c-Myb (Myb),Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,Myb-like,ENSMUSG00000019982
+3.5.1.1.2,A-Myb (MYBL1),Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,Myb-like,ENSMUSG00000025912
+3.5.1.1.3,"B-Myb (B-Myb1, B-Myb2)",Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,Myb-like,ENSMUSG00000017861
+3.5.1.1.4,CDC5L,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,Myb-like,ENSMUSG00000023932
+3.5.1.1.5,SNAPc4,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,Myb-like,ENSMUSG00000036281
+3.5.1.2.1,NCoR1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,NCoR-like,ENSMUSG00000018501
+3.5.1.2.2,NCoR2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,NCoR-like,ENSMUSG00000029478
+3.5.1.2.3,RCoR1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,NCoR-like,ENSMUSG00000037896
+3.5.1.2.4,RCoR2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,NCoR-like,ENSMUSG00000024968
+3.5.1.2.5,RCoR3,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,NCoR-like,ENSMUSG00000037395
+3.5.1.3.1,MIER1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000028522
+3.5.1.3.2,MIER2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000042570
+3.5.1.3.3,MIER3,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000032727
+3.5.1.3.4,MTA1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000021144
+3.5.1.3.5,MTA2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000071646
+3.5.1.3.6,MTA3,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000055817
+3.5.1.3.7,RERE,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000039852
+3.5.1.3.8,DMAP1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000009640
+3.5.1.3.9,TRERF1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000064043
+3.5.1.3.10,ZNF541,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000078796
+3.5.1.3.11,CRAMP1L,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000038002
+3.5.1.3.12,ELMSAN1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,MIER-like,ENSMUSG00000042507
+3.5.1.4.1,DNAJC1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,DNAJC-like,ENSMUSG00000026740
+3.5.1.4.2,DNAJC2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,DNAJC-like,ENSMUSG00000029014
+3.5.1.5.1,SMARCA1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,SMARCA-like,ENSMUSG00000031099
+3.5.1.5.2,SMARCA5,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,SMARCA-like,ENSMUSG00000031715
+3.5.1.6.1,TADA2A,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,TADA2-like,ENSMUSG00000018651
+3.5.1.6.2,TADA2B,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,TADA2-like,ENSMUSG00000029196
+3.5.1.6.3,SMARCC1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,TADA2-like,ENSMUSG00000032481
+3.5.1.6.4,SMARCC2,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,TADA2-like,ENSMUSG00000025369
+3.5.1.7.1,DMTF1,Helix-turn-helix domains,Tryptophan cluster factors,Myb-SANT,DMTF-like,ENSMUSG00000042508
+3.5.2.1.1,c-Ets-1 (Ets-1),Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000032035
+3.5.2.1.2,"c-Ets-2 (Ets-2, ets21, ets22)",Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000022895
+3.5.2.1.4,ETV2,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000006311
+3.5.2.1.5,GABPA,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000008976
+3.5.2.1.6,Fli-1,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,"ENSMUSG00000016087,ENSMUSG00000002812"
+3.5.2.1.7,ERG,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000040732
+3.5.2.1.8,FEV,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000055197
+3.5.2.1.9,ETV3,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000003382
+3.5.2.1.10,ETV3L,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,ENSMUSG00000104058
+3.5.2.1.11,ERF,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETS-like,"ENSMUSG00000040857,ENSMUSG00000024360"
+3.5.2.2.1,ELK1,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,"ENSMUSG00000009406,ENSMUSG00000035355,ENSMUSG00000035580"
+3.5.2.2.2,ELK3,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,"ENSMUSG00000008398,ENSMUSG00000035580"
+3.5.2.2.3,ELK4,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,ENSMUSG00000026436
+3.5.2.2.4,ETV1,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,ENSMUSG00000004151
+3.5.2.2.5,ETV4,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,ENSMUSG00000017724
+3.5.2.2.6,ETV5,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELK-like,ENSMUSG00000013089
+3.5.2.3.1,Elf-1 (ELF14),Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELF1-like,"ENSMUSG00000036461,ENSMUSG00000013822,ENSMUSG00000020315"
+3.5.2.3.2,Elf-2,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELF1-like,ENSMUSG00000037174
+3.5.2.3.3,Elf-4,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ELF1-like,ENSMUSG00000031103
+3.5.2.4.1,EHF,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,EHF-like,ENSMUSG00000012350
+3.5.2.4.2,Elf-3,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,EHF-like,"ENSMUSG00000003051,ENSMUSG00000020315"
+3.5.2.4.3,Elf-5,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,EHF-like,ENSMUSG00000027186
+3.5.2.5.1,PU.1 (Spi-1),Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,SPI-like,"ENSMUSG00000066366,ENSMUSG00000071178,ENSMUSG00000079015,ENSMUSG00000071177,ENSMUSG00000072849,ENSMUSG00000002111"
+3.5.2.5.2,SpiB,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,SPI-like,ENSMUSG00000008193
+3.5.2.5.3,SpiC,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,SPI-like,"ENSMUSG00000052180,ENSMUSG00000004359"
+3.5.2.6.1,ETV6,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETV6-like,ENSMUSG00000030199
+3.5.2.6.2,ETV7,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,ETV6-like,
+3.5.2.7.1,SPDEF,Helix-turn-helix domains,Tryptophan cluster factors,Ets-related,SPDEF-like,ENSMUSG00000024215
+3.5.3.0.1,IRF1,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000018899
+3.5.3.0.2,IRF2,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000031627
+3.5.3.0.3,IRF3,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000003184
+3.5.3.0.4,IRF4,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000021356
+3.5.3.0.5,IRF5,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000029771
+3.5.3.0.6,IRF6,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000026638
+3.5.3.0.7,IRF7,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000025498
+3.5.3.0.8,IRF8,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000041515
+3.5.3.0.9,IRF9,Helix-turn-helix domains,Tryptophan cluster factors,IRF,,ENSMUSG00000002325
+3.6.1.0.1,TEF-1 (TEAD1),Helix-turn-helix domains,TEA domain factors,TEF1-related,,ENSMUSG00000055320
+3.6.1.0.2,TEF-3 (TEAD4),Helix-turn-helix domains,TEA domain factors,TEF1-related,,ENSMUSG00000030353
+3.6.1.0.3,TEF-4 (TEAD2),Helix-turn-helix domains,TEA domain factors,TEF1-related,,ENSMUSG00000030796
+3.6.1.0.4,TEF-5 (TEAD3),Helix-turn-helix domains,TEA domain factors,TEF1-related,,ENSMUSG00000002249
+3.7.1.1.1,ARID1A,Helix-turn-helix domains,ARID,ARID-related,ARID1,ENSMUSG00000007880
+3.7.1.1.2,ARID1B,Helix-turn-helix domains,ARID,ARID-related,ARID1,ENSMUSG00000069729
+3.7.1.2.1,ARID2,Helix-turn-helix domains,ARID,ARID-related,ARID2,ENSMUSG00000033237
+3.7.1.3.1,ARID3A,Helix-turn-helix domains,ARID,ARID-related,ARID3,ENSMUSG00000019564
+3.7.1.4.1,ARID4A,Helix-turn-helix domains,ARID,ARID-related,ARID4,ENSMUSG00000048118
+3.7.1.4.2,ARID4B,Helix-turn-helix domains,ARID,ARID-related,ARID4,ENSMUSG00000039219
+3.7.1.5.1,ARID5A,Helix-turn-helix domains,ARID,ARID-related,ARID5,ENSMUSG00000037447
+3.7.1.5.2,ARID5B,Helix-turn-helix domains,ARID,ARID-related,ARID5,ENSMUSG00000019947
+3.7.1.6.1,JARID1A (KDM5A),Helix-turn-helix domains,ARID,ARID-related,JARID1,ENSMUSG00000030180
+3.7.1.6.2,JARID1B (KDM5B),Helix-turn-helix domains,ARID,ARID-related,JARID1,ENSMUSG00000042207
+3.7.1.6.3,"JARID1C (KDM5C, JARID1CD)",Helix-turn-helix domains,ARID,ARID-related,JARID1,ENSMUSG00000025332
+3.7.1.7.1,JARID2,Helix-turn-helix domains,ARID,ARID-related,JARID2,ENSMUSG00000038518
+4.1.1.1.1,SRY,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group A,"ENSMUSG00000000567,ENSMUSG00000069036"
+4.1.1.2.1,SOX1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group B,ENSMUSG00000096014
+4.1.1.2.2,SOX2,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group B,ENSMUSG00000074637
+4.1.1.2.3,SOX3,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group B,ENSMUSG00000045179
+4.1.1.2.4,SOX14,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group B,ENSMUSG00000053747
+4.1.1.2.5,SOX21,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group B,"ENSMUSG00000033006,ENSMUSG00000061517"
+4.1.1.3.1,SOX4,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group C,ENSMUSG00000076431
+4.1.1.3.2,SOX11,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group C,ENSMUSG00000063632
+4.1.1.3.3,SOX12,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group C,ENSMUSG00000051817
+4.1.1.4.1,SOX5,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group D,ENSMUSG00000041540
+4.1.1.4.2,SOX6,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group D,ENSMUSG00000051910
+4.1.1.4.3,SOX13,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group D,ENSMUSG00000070643
+4.1.1.5.1,SOX8,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group E,ENSMUSG00000024176
+4.1.1.5.2,SOX9,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group E,ENSMUSG00000000567
+4.1.1.5.3,SOX10,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group E,ENSMUSG00000033006
+4.1.1.6.1,SOX7,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group F,ENSMUSG00000063060
+4.1.1.6.2,SOX17,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group F,ENSMUSG00000025902
+4.1.1.6.3,SOX18,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group F,ENSMUSG00000046470
+4.1.1.7.1,SOX15,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group G,ENSMUSG00000041287
+4.1.1.8.1,SOX30,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Group H,"ENSMUSG00000011256,ENSMUSG00000040489"
+4.1.1.9.1,CIC,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Further SOX-related,"ENSMUSG00000005442,ENSMUSG00000003528"
+4.1.1.9.2,HBP-1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Further SOX-related,ENSMUSG00000002996
+4.1.1.9.3,BBX,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,SOX-related,Further SOX-related,ENSMUSG00000022641
+4.1.2.0.1,TOX,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,"ENSMUSG00000064137,ENSMUSG00000041272"
+4.1.2.0.2,TOX2,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000074607
+4.1.2.0.3,TOX3,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000043668
+4.1.2.0.4,TOX4,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000016831
+4.1.2.0.5,SMARCE1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000037935
+4.1.2.0.6,HMG20A,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000032329
+4.1.2.0.7,HMG20B,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000020232
+4.1.2.0.8,HMGXB3,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TOX-related,,ENSMUSG00000024622
+4.1.3.0.1,TCF-7,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TCF7-related,,ENSMUSG00000000782
+4.1.3.0.2,TCF-7L1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TCF7-related,,ENSMUSG00000055799
+4.1.3.0.3,TCF-7L2,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TCF7-related,,ENSMUSG00000024985
+4.1.3.0.4,LEF1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TCF7-related,,ENSMUSG00000027985
+4.1.3.0.5,TAF1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TCF7-related,,ENSMUSG00000031314
+4.1.4.0.1,"PBRM1 (PBRM-1, PBRM1-2, PBRM1-3, PBRM1-4)",Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,PBRM1-related,,ENSMUSG00000042323
+4.1.4.0.2,HMGXB4,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,PBRM1-related,,ENSMUSG00000034518
+4.1.5.0.1,WHSC1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,WHSC1-related,,ENSMUSG00000057406
+4.1.5.0.2,SSRP1,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,WHSC1-related,,ENSMUSG00000027067
+4.1.6.1.1,UBF (UBTF),Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,UBF-related,UBF,ENSMUSG00000020923
+4.1.6.2.1,UBTFL1 (UBTLF1),Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,UBF-related,UBF-like,ENSMUSG00000074502
+4.1.7.0.1,TFAM,Other all-alpha-helical DNA-binding domains,High-mobility group (HMG) domain factors,TFAM,,ENSMUSG00000003923
+5.1.1.1.1,MEF2A,alpha-Helices exposed by beta-structures,MADS box factors,Regulators of differentiation,MEF2,ENSMUSG00000030557
+5.1.1.1.2,MEF2B,alpha-Helices exposed by beta-structures,MADS box factors,Regulators of differentiation,MEF2,ENSMUSG00000079033
+5.1.1.1.3,MEF2C,alpha-Helices exposed by beta-structures,MADS box factors,Regulators of differentiation,MEF2,ENSMUSG00000005583
+5.1.1.1.4,MEF2D,alpha-Helices exposed by beta-structures,MADS box factors,Regulators of differentiation,MEF2,ENSMUSG00000001419
+5.1.2.0.1,SRF,alpha-Helices exposed by beta-structures,MADS box factors,Responders to external signals,,ENSMUSG00000015605
+5.3.1.0.1,AIRE,alpha-Helices exposed by beta-structures,SAND domain factors,AIRE,,ENSMUSG00000000731
+5.3.2.0.1,DEAF1,alpha-Helices exposed by beta-structures,SAND domain factors,DEAF,,"ENSMUSG00000075470,ENSMUSG00000058886"
+5.3.3.1.1,GMEB1,alpha-Helices exposed by beta-structures,SAND domain factors,GMEB,GMEB,ENSMUSG00000028901
+5.3.3.1.2,GMEB2,alpha-Helices exposed by beta-structures,SAND domain factors,GMEB,GMEB,ENSMUSG00000038705
+5.3.4.0.1,Sp110,alpha-Helices exposed by beta-structures,SAND domain factors,Sp110,,"ENSMUSG00000082088,ENSMUSG00000079455,ENSMUSG00000018217,ENSMUSG00000070034"
+5.3.5.1.1,Sp140,alpha-Helices exposed by beta-structures,SAND domain factors,Sp140-Sp100,Sp140,"ENSMUSG00000089844,ENSMUSG00000052477,ENSMUSG00000070031"
+5.3.5.1.2,Sp140L,alpha-Helices exposed by beta-structures,SAND domain factors,Sp140-Sp100,Sp140,ENSMUSG00000070031
+5.3.5.2.1,Sp100,alpha-Helices exposed by beta-structures,SAND domain factors,Sp140-Sp100,Sp100,ENSMUSG00000026222
+6.1.1.1.1,NF-?B p105 (NFKB1),Immunoglobulin fold,Rel homology region (RHR) factors,NFkappaB-related,NFkappaB p50-like,ENSMUSG00000028163
+6.1.1.1.2,NF-?B p100 (NFKB2),Immunoglobulin fold,Rel homology region (RHR) factors,NFkappaB-related,NFkappaB p50-like,ENSMUSG00000025225
+6.1.1.2.1,RelA,Immunoglobulin fold,Rel homology region (RHR) factors,NFkappaB-related,NFkappaB p65-like,ENSMUSG00000024927
+6.1.1.2.2,RelB,Immunoglobulin fold,Rel homology region (RHR) factors,NFkappaB-related,NFkappaB p65-like,ENSMUSG00000002983
+6.1.1.2.3,c-Rel,Immunoglobulin fold,Rel homology region (RHR) factors,NFkappaB-related,NFkappaB p65-like,ENSMUSG00000020275
+6.1.2.1.8,BCL3,Immunoglobulin fold,Rel homology region (RHR) factors,Ankyrin-only,IkappaB-like,ENSMUSG00000053175
+6.1.2.2.1,RAI,Immunoglobulin fold,Rel homology region (RHR) factors,Ankyrin-only,RelA-associated inhibitor,ENSMUSG00000040734
+6.1.3.0.1,NFATc1,Immunoglobulin fold,Rel homology region (RHR) factors,NFAT-related,,ENSMUSG00000033016
+6.1.3.0.2,NFATc2,Immunoglobulin fold,Rel homology region (RHR) factors,NFAT-related,,ENSMUSG00000027544
+6.1.3.0.3,NFATc3,Immunoglobulin fold,Rel homology region (RHR) factors,NFAT-related,,ENSMUSG00000031902
+6.1.3.0.4,NFATc4,Immunoglobulin fold,Rel homology region (RHR) factors,NFAT-related,,ENSMUSG00000023411
+6.1.3.0.5,NFAT5,Immunoglobulin fold,Rel homology region (RHR) factors,NFAT-related,,ENSMUSG00000003847
+6.1.4.1.1,RBPJkappa (RBPJ),Immunoglobulin fold,Rel homology region (RHR) factors,CSL-related,M,ENSMUSG00000039191
+6.1.4.1.2,RBPJL,Immunoglobulin fold,Rel homology region (RHR) factors,CSL-related,M,ENSMUSG00000017007
+6.1.5.0.1,EBF1,Immunoglobulin fold,Rel homology region (RHR) factors,EBF-related,,ENSMUSG00000057098
+6.1.5.0.2,EBF2,Immunoglobulin fold,Rel homology region (RHR) factors,EBF-related,,ENSMUSG00000022053
+6.1.5.0.3,EBF3,Immunoglobulin fold,Rel homology region (RHR) factors,EBF-related,,"ENSMUSG00000010476,ENSMUSG00000029166"
+6.1.5.0.4,EBF4,Immunoglobulin fold,Rel homology region (RHR) factors,EBF-related,,"ENSMUSG00000057098,ENSMUSG00000053552"
+6.2.1.0.1,STAT1,Immunoglobulin fold,STAT domain factors,STAT,,ENSMUSG00000026104
+6.2.1.0.2,STAT2,Immunoglobulin fold,STAT domain factors,STAT,,ENSMUSG00000040033
+6.2.1.0.3,STAT3,Immunoglobulin fold,STAT domain factors,STAT,,ENSMUSG00000004040
+6.2.1.0.4,STAT4,Immunoglobulin fold,STAT domain factors,STAT,,"ENSMUSG00000056153,ENSMUSG00000062939"
+6.2.1.0.5,STAT5A,Immunoglobulin fold,STAT domain factors,STAT,,"ENSMUSG00000004043,ENSMUSG00000020919"
+6.2.1.0.6,STAT5B,Immunoglobulin fold,STAT domain factors,STAT,,ENSMUSG00000020919
+6.2.1.0.7,STAT6,Immunoglobulin fold,STAT domain factors,STAT,,ENSMUSG00000002147
+6.3.1.0.1,p53,Immunoglobulin fold,p53 domain factors,p53-related,,ENSMUSG00000059552
+6.3.1.0.2,p63,Immunoglobulin fold,p53 domain factors,p53-related,,"ENSMUSG00000068039,ENSMUSG00000022510"
+6.3.1.0.3,p73,Immunoglobulin fold,p53 domain factors,p53-related,,ENSMUSG00000029026
+6.4.1.0.1,Runx2,Immunoglobulin fold,Runt domain factors,Runt-related,,ENSMUSG00000039153
+6.4.1.0.2,Runx1,Immunoglobulin fold,Runt domain factors,Runt-related,,ENSMUSG00000022952
+6.4.1.0.3,Runx3,Immunoglobulin fold,Runt domain factors,Runt-related,,ENSMUSG00000070691
+6.5.1.0.1,T (Brachyury),Immunoglobulin fold,T-Box factors,Brachyury-related,,ENSMUSG00000062327
+6.5.1.0.2,TBX19,Immunoglobulin fold,T-Box factors,Brachyury-related,,ENSMUSG00000026572
+6.5.3.0.1,TBX1,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000009097
+6.5.3.0.2,TBX10,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000037477
+6.5.3.0.3,TBX15,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000027868
+6.5.3.0.4,TBX18,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000032419
+6.5.3.0.5,TBX20,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000031965
+6.5.3.0.6,TBX22,Immunoglobulin fold,T-Box factors,TBX1-related,,ENSMUSG00000031241
+6.5.4.0.1,TBX2,Immunoglobulin fold,T-Box factors,TBX2-related,,ENSMUSG00000000093
+6.5.4.0.2,TBX3,Immunoglobulin fold,T-Box factors,TBX2-related,,ENSMUSG00000018604
+6.5.4.0.3,TBX4,Immunoglobulin fold,T-Box factors,TBX2-related,,ENSMUSG00000000094
+6.5.4.0.4,TBX5,Immunoglobulin fold,T-Box factors,TBX2-related,,ENSMUSG00000018263
+6.5.5.0.1,TBX6,Immunoglobulin fold,T-Box factors,TBX6-related,,ENSMUSG00000030699
+6.5.5.0.2,MGA (MAD5),Immunoglobulin fold,T-Box factors,TBX6-related,,"ENSMUSG00000033943,ENSMUSG00000068587"
+6.6.1.0.1,MYRF,Immunoglobulin fold,NDT80 domain factors,MYRF-related,,"ENSMUSG00000036098,ENSMUSG00000034057"
+6.7.1.1.1,GRH-L1,Immunoglobulin fold,Grainyhead,Grainyhead-related,GRH-like,ENSMUSG00000020656
+6.7.1.1.2,GRH-L2,Immunoglobulin fold,Grainyhead,Grainyhead-related,GRH-like,ENSMUSG00000022286
+6.7.1.1.3,GRH-L3,Immunoglobulin fold,Grainyhead,Grainyhead-related,GRH-like,ENSMUSG00000037188
+6.7.2.0.1,CP2,Immunoglobulin fold,Grainyhead,CP2-related,,ENSMUSG00000009733
+6.7.2.0.2,CP2L1,Immunoglobulin fold,Grainyhead,CP2-related,,ENSMUSG00000026380
+6.7.2.0.3,UBP1,Immunoglobulin fold,Grainyhead,CP2-related,,ENSMUSG00000009741
+7.1.1.1.1,SMAD1,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,R-MAD,"ENSMUSG00000029777,ENSMUSG00000031681"
+7.1.1.1.2,SMAD2,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,R-MAD,ENSMUSG00000024563
+7.1.1.1.3,SMAD3,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,R-MAD,ENSMUSG00000032402
+7.1.1.1.4,SMAD5,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,R-MAD,ENSMUSG00000021540
+7.1.1.1.5,SMAD9,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,R-MAD,ENSMUSG00000027796
+7.1.1.2.1,SMAD4,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,Co-SMAD,ENSMUSG00000024515
+7.1.1.3.1,SMAD6,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,I-SMAD,ENSMUSG00000036867
+7.1.1.3.2,SMAD7,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,SMAD,I-SMAD,ENSMUSG00000025880
+7.1.2.0.1,NF-1A,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,NF-1,,ENSMUSG00000028565
+7.1.2.0.2,NF-1B,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,NF-1,,ENSMUSG00000008575
+7.1.2.0.3,NF-1C,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,NF-1,,ENSMUSG00000055053
+7.1.2.0.4,NF-1X,beta-Hairpin exposed by an alpha/beta-scaffold,SMAD/NF-1 DNA-binding domain factors,NF-1,,ENSMUSG00000001911
+7.2.1.0.1,GCM1,beta-Hairpin exposed by an alpha/beta-scaffold,GCM domain factors,GCM,,ENSMUSG00000023333
+7.2.1.0.2,GCM2,beta-Hairpin exposed by an alpha/beta-scaffold,GCM domain factors,GCM,,ENSMUSG00000021362
+8.1.1.0.1,TBP,beta-Sheet binding to DNA,TATA-binding proteins,TBP-related,,ENSMUSG00000014767
+8.1.1.0.2,TBPL1,beta-Sheet binding to DNA,TATA-binding proteins,TBP-related,,ENSMUSG00000071359
+8.1.1.0.3,TBPL2,beta-Sheet binding to DNA,TATA-binding proteins,TBP-related,,ENSMUSG00000061809
+8.2.1.0.1,HMGA1,beta-Sheet binding to DNA,A.T hook factors,HMGA,,"ENSMUSG00000046711,ENSMUSG00000078249"
+8.2.1.0.2,HMGA2,beta-Sheet binding to DNA,A.T hook factors,HMGA,,ENSMUSG00000056758
+9.1.1.1.1,DbpA (YBX3),beta-Barrel DNA-binding domains,Cold-shock domain factors,Dbp,A,ENSMUSG00000030189
+9.1.1.2.1,YB-1 (YBX1),beta-Barrel DNA-binding domains,Cold-shock domain factors,Dbp,B,ENSMUSG00000028639
+9.1.1.3.1,YBX2,beta-Barrel DNA-binding domains,Cold-shock domain factors,Dbp,C,ENSMUSG00000018554
+0.1.1.0.1,CSRNP-1,Yet undefined DNA-binding domains,AXUD/CSRNP domain factors,CSRNP,,ENSMUSG00000032515
+0.1.1.0.2,CSRNP-2,Yet undefined DNA-binding domains,AXUD/CSRNP domain factors,CSRNP,,ENSMUSG00000044636
+0.1.1.0.3,CSRNP-3,Yet undefined DNA-binding domains,AXUD/CSRNP domain factors,CSRNP,,ENSMUSG00000044647
+0.2.1.0.1,NonO,Yet undefined DNA-binding domains,NonO domain factors,NonO-related,,ENSMUSG00000031311
+0.2.1.0.3,PSPC1,Yet undefined DNA-binding domains,NonO domain factors,NonO-related,,ENSMUSG00000021938
+0.3.1.0.1,LRRFIP1,Yet undefined DNA-binding domains,Leucine-rich repeat flightless-interacting proteins,LRRFIP,,ENSMUSG00000026305
+0.3.1.0.2,LRRFIP2,Yet undefined DNA-binding domains,Leucine-rich repeat flightless-interacting proteins,LRRFIP,,ENSMUSG00000032497
+0.4.1.0.1,NFX1,Yet undefined DNA-binding domains,NFX1-type putative zinc finger factors,NFX1,,ENSMUSG00000028423
+0.4.1.0.2,NFXL1,Yet undefined DNA-binding domains,NFX1-type putative zinc finger factors,NFX1,,ENSMUSG00000072889
+0.0.1.0.1,NULP1 (TCF25),Yet undefined DNA-binding domains,Uncharacterized,NULP1,,ENSMUSG00000001472
+0.0.2.0.1,PHF5A,Yet undefined DNA-binding domains,Uncharacterized,PHF5,,ENSMUSG00000061360
+0.0.3.0.1,RFXANK,Yet undefined DNA-binding domains,Uncharacterized,RFXANK,,ENSMUSG00000036120
+0.0.4.0.1,RFXAP,Yet undefined DNA-binding domains,Uncharacterized,RFXAP,,ENSMUSG00000036615
+0.0.5.0.1,PURalpha (PURA),Yet undefined DNA-binding domains,Uncharacterized,PUR,,ENSMUSG00000043991
+0.0.5.0.2,PURbeta (PURB),Yet undefined DNA-binding domains,Uncharacterized,PUR,,ENSMUSG00000094483
+0.0.5.0.3,PURgamma (PURG),Yet undefined DNA-binding domains,Uncharacterized,PUR,,ENSMUSG00000049184
+0.0.6.0.1,NRF1,Yet undefined DNA-binding domains,Uncharacterized,NRF,,"ENSMUSG00000038615,ENSMUSG00000058440"
